@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Control Flames"
-date:   2015-11-11
-source: EE.16
+title: "Control Flames"
+date:   2017-01-01
+source: XGTE.152
 tags: [druid, sorcerer, wizard, cantrip, transmutation]
 ---
 
@@ -16,7 +16,7 @@ tags: [druid, sorcerer, wizard, cantrip, transmutation]
 
 **Duration**: Instantaneous or 1 hour (see below)
 
-You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
+You choose a nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
 
 * You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
 * You instantaneously extinguish the flames within the cube.
