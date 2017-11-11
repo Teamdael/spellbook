@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grimoire</title>
+    <title>Spellbook</title>
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 11 Nov 2017 15:21:44 +0100</pubDate>
-    <lastBuildDate>Sat, 11 Nov 2017 15:21:44 +0100</lastBuildDate>
+    <link>http://testingtestsaregreat.github.io/spellbook/</link>
+    <atom:link href="http://testingtestsaregreat.github.io/spellbook/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 11 Nov 2017 16:52:33 +0100</pubDate>
+    <lastBuildDate>Sat, 11 Nov 2017 16:52:33 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -33,8 +33,8 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
 &lt;p&gt;A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/shield-of-faith</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/shield-of-faith</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/shield-of-faith</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/shield-of-faith</guid>
         
         
         <category>spells</category>
@@ -58,8 +58,8 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/catnap</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/catnap</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/catnap</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/catnap</guid>
         
         <category>sorcerer</category>
         
@@ -91,8 +91,8 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/catapult</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/catapult</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/catapult</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/catapult</guid>
         
         <category>sorcerer</category>
         
@@ -128,8 +128,8 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/bones-of-the-earth</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/bones-of-the-earth</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/bones-of-the-earth</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/bones-of-the-earth</guid>
         
         <category>druid</category>
         
@@ -157,8 +157,8 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
 &lt;p&gt;You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/beast-bond</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/beast-bond</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/beast-bond</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/beast-bond</guid>
         
         <category>druid</category>
         
@@ -190,8 +190,8 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher. the damage increases by 1d8 for each slot level above 2nd.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/aganazzars-scorcher</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/aganazzars-scorcher</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/aganazzars-scorcher</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/aganazzars-scorcher</guid>
         
         <category>sorcerer</category>
         
@@ -223,8 +223,8 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/absorb-elements</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/absorb-elements</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/absorb-elements</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/absorb-elements</guid>
         
         <category>druid</category>
         
@@ -259,8 +259,8 @@ and water elementals make this saving throw with disadvantage. A creature takes 
 such as trees and shrubs, wither and die instantly.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/abi-dalzims-horrid-wilting</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/abi-dalzims-horrid-wilting</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/abi-dalzims-horrid-wilting</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/abi-dalzims-horrid-wilting</guid>
         
         <category>sorcerer</category>
         
@@ -292,8 +292,8 @@ such as trees and shrubs, wither and die instantly.&lt;/p&gt;
 &lt;p&gt;This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/sword-burst</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/sword-burst</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/sword-burst</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/sword-burst</guid>
         
         <category>sorcerer</category>
         
@@ -327,8 +327,8 @@ such as trees and shrubs, wither and die instantly.&lt;/p&gt;
 &lt;p&gt;This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/spells/lightning-lure</link>
-        <guid isPermaLink="true">http://localhost:4000/spells/lightning-lure</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/lightning-lure</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/lightning-lure</guid>
         
         <category>sorcerer</category>
         
