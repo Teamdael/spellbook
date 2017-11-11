@@ -5,8 +5,8 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://testingtestsaregreat.github.io/spellbook/</link>
     <atom:link href="http://testingtestsaregreat.github.io/spellbook/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 11 Nov 2017 17:04:27 +0100</pubDate>
-    <lastBuildDate>Sat, 11 Nov 2017 17:04:27 +0100</lastBuildDate>
+    <pubDate>Sat, 11 Nov 2017 18:23:30 +0100</pubDate>
+    <lastBuildDate>Sat, 11 Nov 2017 18:23:30 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -42,26 +42,133 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
       </item>
     
       <item>
-        <title>Catnap</title>
+        <title>Find Greater Steed</title>
+        <description>&lt;p&gt;&lt;strong&gt;4th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 10 minutes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You summon a spirit that assumes the form of a loyal, majestic mount. Appearing in an unoccupied space within range, the spirit takes on a form you choose: a griffon, a pegasus, a peryton, a dire wolf, a rhinoceros, or a saber—toothed tiger. The creature has the statistics provided in the &lt;em&gt;Monster Manual&lt;/em&gt; for the chosen form, though it is a celestial, a fey, or a fiend (your choice) instead of its normal creature type. Additionally, if it has an Intelligence score of 5 or lower, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak. You control the mount in combat. While the mount is within 1 mile of you, you can communicate with it telepathically. While mounted on it, you can make any spell you cast that targets only you also target the mount.&lt;/p&gt;
+
+&lt;p&gt;The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an action. Casting this spell again re—summons the bonded mount, with all its hit points restored and any conditions removed.&lt;/p&gt;
+
+&lt;p&gt;You can’t have more than one mount bonded by this spell or find steed at the same time. As an action, you can release a mount from its bond, causing it to disappear permanently. Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/find-greater-steed</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/find-greater-steed</guid>
+        
+        <category>paladin</category>
+        
+        <category>level4</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Far Step</title>
+        <description>&lt;p&gt;&lt;strong&gt;5th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 bonus action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/far-step</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/far-step</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level5</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Enervation</title>
+        <description>&lt;p&gt;&lt;strong&gt;5th-level necromancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. The target must make a Dexterity saving throw. On a successful save, the target takes 2d8 necrotic damage, and the spell ends. On a failed save, the target takes 4d8 necrotic damage, and until the spell ends, you can use your action on each of your turns to automatically deal 4d8 necrotic damage to the target. The spell ends if you use your action to do anything else, if the target is ever outside the spell’s range, or if the target has total cover from you.&lt;/p&gt;
+
+&lt;p&gt;Whenever the spell deals damage to a target, you regain hit points equal to half the amount of necrotic damage the target takes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/enervation</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/enervation</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level5</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Enemies Abound</title>
         <description>&lt;p&gt;&lt;strong&gt;3rd-level enchantment&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 120 feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S, M (a pinch of sand)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 10 minutes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
 
-&lt;p&gt;You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell’s duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can’t be affected by this spell again until it finishes a long rest.&lt;/p&gt;
+&lt;p&gt;You reach into the mind of one creature you can see and force it to make an Intelligence saving throw. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.&lt;/p&gt;
+&lt;p&gt;Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it’s using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/catnap</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/catnap</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/enemies-abound</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/enemies-abound</guid>
+        
+        <category>bard</category>
         
         <category>sorcerer</category>
+        
+        <category>warlock</category>
         
         <category>wizard</category>
         
@@ -75,30 +182,32 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
       </item>
     
       <item>
-        <title>Catapult</title>
-        <description>&lt;p&gt;&lt;strong&gt;1st-level transmutation&lt;/strong&gt;&lt;/p&gt;
+        <title>Elemental Bane</title>
+        <description>&lt;p&gt;&lt;strong&gt;4th-level transmutation&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
 
-&lt;p&gt;Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.&lt;/p&gt;
+&lt;p&gt;Choose one creature you can see within range, and choose one of the following damage types: acid, cold, fire, lightning, or thunder. The target must succeed on a Constitution saving throw or be affected by the spell for its duration. The first time each turn the affected target takes damage of the chosen type, the target takes an extra 2d6 damage of that type. Moreover, the target loses any resistance to that damage type until the spell ends.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/catapult</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/catapult</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/elemental-bane</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/elemental-bane</guid>
         
-        <category>sorcerer</category>
+        <category>druid</category>
+        
+        <category>warlock</category>
         
         <category>wizard</category>
         
-        <category>level1</category>
+        <category>level4</category>
         
         <category>transmutation</category>
         
@@ -108,131 +217,42 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
       </item>
     
       <item>
-        <title>Bones of the Earth</title>
-        <description>&lt;p&gt;&lt;strong&gt;6th-level transmutation&lt;/strong&gt;&lt;/p&gt;
+        <title>Druid's Grove</title>
+        <description>&lt;p&gt;&lt;strong&gt;6th-level abjuration&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 10 minutes&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 120 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 24 hours&lt;/p&gt;
 
-&lt;p&gt;You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.&lt;/p&gt;
+&lt;p&gt;You invoke the spirits of nature to protect an area outdoors or underground. The area can be as small as a 30—foot cube or as large as a 90-foot cube. Buildings and other structures are excluded from the affected area. If you cast this spell in the same area every day for a year, the spell lasts until dispelled. The spell creates the following effects within the area. When you cast this spell, you can specify creatures as friends who are immune to the effects. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects. The entire warded area radiates magic. A dispel magic cast on the area, if successful, removes only one of the following effects, not the entire area. That spell’s caster chooses which effect to end. Only when all its effects are gone is this spell dispelled.&lt;/p&gt;
 
-&lt;p&gt;If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Solid Fog.&lt;/em&gt;&lt;/strong&gt; You can fill any number of 5-foot squares on the ground with thick fog, making them heavily obscured. The fog reaches 10 feet high. In addition, every foot of movement through the fog costs 2 extra feet. To a creature immune to this effect, the fog obscures nothing and looks like soft mist, with motes of green light floating in the air.&lt;/p&gt;
 
-&lt;p&gt;If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature’s choice) against the spell’s save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Grasping Undergrowth.&lt;/em&gt;&lt;/strong&gt; You can fill any number of 5-foot squares on the ground that aren’t filled with fog with grasping weeds and vines, as if they were affected by an entangle spell. To a creature immune to this effect, the weeds and vines feel soft and reshape themselves to serve as temporary seats or beds.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Grove Guardians.&lt;/em&gt;&lt;/strong&gt; You can animate up to four trees in the area, causing them to uproot themselves from the ground. These trees have the same statistics as an awakened tree, which appears in the &lt;em&gt;Monster Manual&lt;/em&gt;, except they can’t speak, and their bark is covered with druidic symbols. If any creature not immune to this effect enters the warded area, the grove guardians fight until they have driven off or slain the intruders. The grove guardians also obey your spoken commands (no action required by you) that you issue while in the area. If you don’t give them commands and no intruders are
+present, the grove guardians do nothing. The grove guardians can‘t leave the warded area. When the spell ends, the magic animating them disappears, and the trees take root again if possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Additional Spell Effect.&lt;/em&gt;&lt;/strong&gt; You can place your choice of one of the following magical effects within the warded area:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A constant &lt;em&gt;gust of wind&lt;/em&gt; in two locations of your choice&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Spike growth&lt;/em&gt; in one location of your choice&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Wind wall&lt;/em&gt; in two locations of your choice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of &lt;em&gt;spike growth&lt;/em&gt; is harmless.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/bones-of-the-earth</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/bones-of-the-earth</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/druid-grove</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/druid-grove</guid>
         
         <category>druid</category>
         
         <category>level6</category>
-        
-        <category>transmutation</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Beast Bond</title>
-        <description>&lt;p&gt;&lt;strong&gt;1st-level divination&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of fur wrapped in a cloth)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 10 minutes&lt;/p&gt;
-
-&lt;p&gt;You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/beast-bond</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/beast-bond</guid>
-        
-        <category>druid</category>
-        
-        <category>ranger</category>
-        
-        <category>level1</category>
-        
-        <category>divination</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Aganazzar's Scorcher</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level evocation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a red dragon’s scale)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
-
-&lt;p&gt;A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher. the damage increases by 1d8 for each slot level above 2nd.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/aganazzars-scorcher</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/aganazzars-scorcher</guid>
-        
-        <category>sorcerer</category>
-        
-        <category>wizard</category>
-        
-        <category>level2</category>
-        
-        <category>evocation</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Absorb Elements</title>
-        <description>&lt;p&gt;&lt;strong&gt;1st-level abjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 round&lt;/p&gt;
-
-&lt;p&gt;The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/absorb-elements</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/absorb-elements</guid>
-        
-        <category>druid</category>
-        
-        <category>ranger</category>
-        
-        <category>wizard</category>
-        
-        <category>level1</category>
         
         <category>abjuration</category>
         
@@ -242,33 +262,33 @@ tags: [cleric, paladin, level1, abjuration]&lt;/p&gt;
       </item>
     
       <item>
-        <title>Abi Dalzim's Horrid Wilting</title>
-        <description>&lt;p&gt;&lt;strong&gt;8th-level necromancy&lt;/strong&gt;&lt;/p&gt;
+        <title>Dragon's Breath</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level transmutation&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 bonus action&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a hot pepper)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
 
-&lt;p&gt;You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.&lt;/p&gt;
+&lt;p&gt;You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison.
+Until the spell ends, the creature can use an action to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, the damage increases by ld6 for each slot level above 2nd.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/abi-dalzims-horrid-wilting</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/abi-dalzims-horrid-wilting</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/dragons-breath</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/dragons-breath</guid>
         
         <category>sorcerer</category>
         
         <category>wizard</category>
         
-        <category>level8</category>
+        <category>level2</category>
         
-        <category>necromancy</category>
+        <category>transmutation</category>
         
         
         <category>spells</category>
@@ -276,69 +296,69 @@ such as trees and shrubs, wither and die instantly.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Sword Burst</title>
-        <description>&lt;p&gt;&lt;strong&gt;Conjuration cantrip&lt;/strong&gt;&lt;/p&gt;
+        <title>Dawn</title>
+        <description>&lt;p&gt;&lt;strong&gt;5th-level evocation&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 5 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a sunburst pendant worth at least 100 gp)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
 
-&lt;p&gt;You create a momentary circle of spectral blades that sweep around you. Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.&lt;/p&gt;
+&lt;p&gt;The light of dawn shines down on a location you specify within range. Until the spell ends, a 30—foot-radius, 40-foot-high cylinder of bright light glimmers there. This light is sunlight.&lt;/p&gt;
 
-&lt;p&gt;This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).&lt;/p&gt;
+&lt;p&gt;When the cylinder appears, each creature in it must make a Constitution saving throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw whenever it ends its turn in the cylinder. If you’re within 60 feet of the cylinder, you can move it up to 60 feet as a bonus action on your turn.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/sword-burst</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/sword-burst</guid>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/dawn</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/dawn</guid>
         
-        <category>sorcerer</category>
-        
-        <category>warlock</category>
+        <category>cleric</category>
         
         <category>wizard</category>
         
-        <category>cantrip</category>
-        
-        <category>conjuration</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Lightning Lure</title>
-        <description>&lt;p&gt;&lt;strong&gt;Evocation cantrip&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 15 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
-
-&lt;p&gt;You create a lash of lightning energy that strikes at one creature of your choice that you can see within range. The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.&lt;/p&gt;
-
-&lt;p&gt;This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/lightning-lure</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/lightning-lure</guid>
-        
-        <category>sorcerer</category>
-        
-        <category>warlock</category>
-        
-        <category>wizard</category>
-        
-        <category>cantrip</category>
+        <category>level5</category>
         
         <category>evocation</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Danse Macabre</title>
+        <description>&lt;p&gt;&lt;strong&gt;5th-level necromancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a zombie or a skeleton (the statistics for zombies and skeletons are in the &lt;em&gt;Monster Manual&lt;/em&gt;), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.&lt;/p&gt;
+
+&lt;p&gt;You can use a bonus action to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.&lt;/p&gt;
+
+&lt;p&gt;The creatures are under your control until the spell ends, after which they become inanimate once more.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/danse-macabre</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/danse-macabre</guid>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level5</category>
+        
+        <category>necromancy</category>
         
         
         <category>spells</category>
