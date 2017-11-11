@@ -2,7 +2,7 @@
 layout: post
 title:  "Watery Sphere"
 date:   2015-11-19
-source: EE.23
+source: XGTE.170
 tags: [druid, sorcerer, wizard, level4, conjuration]
 ---
 

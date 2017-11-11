@@ -2,7 +2,7 @@
 layout: post
 title:  "Melf's Minute Meteors"
 date:   2015-11-20
-source: EE.20
+source: XGTE.161
 tags: [sorcerer, wizard, level3, evocation]
 ---
 

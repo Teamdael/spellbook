@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Flame Arrows"
-date:   2015-11-19
-source: EE.18
+date:   2017-01-01
+source: XGTE.156
 tags: [druid, ranger, sorcerer, wizard, level3, transmutation]
 ---
 

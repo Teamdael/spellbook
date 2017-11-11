@@ -2,7 +2,7 @@
 layout: post
 title:  "Wall of Sand"
 date:   2015-11-22
-source: EE.23
+source: XGTE.170
 tags: [wizard, level3, evocation]
 ---
 

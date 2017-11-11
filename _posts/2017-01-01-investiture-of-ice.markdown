@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Investiture of Ice"
-date:   2015-11-19
-source: EE.19
+date:   2017-01-01
+source: XGTE.159
 tags: [druid, sorcerer, warlock, wizard, level6, transmutation]
 ---
 
