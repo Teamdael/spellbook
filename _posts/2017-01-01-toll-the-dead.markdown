@@ -3,7 +3,7 @@ layout: post
 title:  "Toll the Dead"
 date:   2017-01-01
 source: XGTE.169
-tags: [sorcerer, wizard, cantrip, necromancy]
+tags: [cleric, sorcerer, wizard, cantrip, necromancy]
 ---
 
 **Necromancy cantrip**
