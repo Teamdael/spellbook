@@ -3,19 +3,19 @@ layout: post
 title:  "Mental Prison"
 date:   2017-01-01
 source: XGTE.161
-tags: [sorcerer, wizard, level3, evocation]
+tags: [sorcerer, wizard, level6, illusion]
 ---
 
-**3rd-level evocation**
+**6th-level illusion**
 
 **Casting Time**: 1 action
 
-**Range**: Self
+**Range**: 60 feet
 
-**Components**: V, S, M (niter, sulfur, and pine tar formed into a bead)
+**Components**: S
 
-**Duration**: Concentration, up to 10 minutes
+**Duration**: Concentration, up to 1 minute
 
-You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell -- and as a bonus action on each of your turns thereafter -- you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity saving throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
+You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence saving throw. The target succeeds automatically if it is immune to being charmed. On a successful save, the target takes 5d10 psychic damage, and the spell ends. On a failed save, the target takes 5d10 psychic damage, and you make the area immediately around the target’s space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.
+Whatever form the illusion takes, the target can’t see or hear anything beyond it and is restrained for the spell’s duration. If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes 10d10 psychic damage, and the spell ends.
