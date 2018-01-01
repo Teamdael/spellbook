@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Lacerate"
+date:   2017-01-01
+source: Dark Arts Player's Companion
+tags: [cleric, sorcerer, warlock, wizard, cantrip, necromancy, hb]
+---
+
+**Necromancy cantrip**
+
+**Casting Time**: 1 action
+
+**Range**: 30 feet
+
+**Components**: V, S
+
+**Duration**: Instantaneous
+
+Two bolts of necrotic energy shoot from your fingertips towards a single creature within range. Make two ranged spell attacks against the target. On a hit, the target takes 1d4 necrotic damage. If both bolts hit the target, then the target’s hit point maximum is reduced by an amount equal to the necrotic damage it took. The target’s hit point maximum returns to normal after 10 minutes.
+
+The spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).

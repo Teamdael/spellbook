@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Arc Bolt"
+date:   2014-08-24
+source: Homebrew
+tags: [druid, sorcerer, wizard, cantrip, evocation, hb]
+---
+
+**Evocation cantrip**
+
+**Casting Time**: 1 action
+
+**Range**: 90 feet
+
+**Components**: V, S
+
+**Duration**: Instantaneous
+
+You create a jolt of electricity that leaps from your grasp to a foe that you can see within range. The creature must succeed on a Dexterity saving throw or take 1d6 lightning damage. Creatures wearing or primarily composed of metal cannot have advantage against this saving throw. If the target fails the save you may select another target within 15ft of the previous to become subject to this spell. This spell may jump a number of times equal the number of additional damage dice (up to 3 additional targets at 17th level). It may not target the same creature more than once per use.
+
+This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).

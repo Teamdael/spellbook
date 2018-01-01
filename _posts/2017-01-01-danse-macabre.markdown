@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Danse Macabre"
+title:  "Danse Macabre (XGTE)"
 date:   2017-01-01
 source: XGTE.153
 tags: [warlock, wizard, level5, necromancy]
