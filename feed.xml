@@ -5,8 +5,8 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://testingtestsaregreat.github.io/spellbook/</link>
     <atom:link href="http://testingtestsaregreat.github.io/spellbook/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 11 Nov 2017 22:27:50 +0100</pubDate>
-    <lastBuildDate>Sat, 11 Nov 2017 22:27:50 +0100</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2018 18:02:48 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2018 18:02:48 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -28,6 +28,8 @@
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
         <link>http://testingtestsaregreat.github.io/spellbook/spells/toll-the-dead</link>
         <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/toll-the-dead</guid>
+        
+        <category>cleric</category>
         
         <category>sorcerer</category>
         
