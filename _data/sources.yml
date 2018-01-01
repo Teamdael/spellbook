@@ -1,0 +1,8 @@
+- name: Player's Handbook
+  tag: phb
+- name: Sword Coast Adventurer's Guide
+  tag: scag
+- name: Xanathar's Guide to Everything
+  tag: xgte
+- name: Homebrew
+  tag: hb
