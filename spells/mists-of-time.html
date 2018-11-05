@@ -25,21 +25,44 @@
   		}
 
         function schoolClick(e) {
-            var schools = Array.prototype.slice.call(document.querySelectorAll('.spell-school:not([name="all"])')),
+            var schools = Array.prototype.slice.call(document.querySelectorAll('.spell-school:not([name="allschools"])')),
                 selected = e.target,
                 tags = [];
 
             if (selected.nodeName !== 'A') return;
-            if (selected.name == 'all') {
+            if (selected.name == 'allschools') {
                 selected.classList.add('selected');
                 schools.forEach(function(school) {
                     school.classList.remove('selected');
                 });
             }
             else {
-                document.querySelector('.spell-school[name="all"]').classList.remove('selected');
+                document.querySelector('.spell-school[name="allschools"]').classList.remove('selected');
                 selected.classList.toggle('selected');
                 tags = Array.prototype.slice.call(document.querySelectorAll('.spell-school.selected')).map(function(el) { return el.name; });
+            }
+
+            filterSpells(tags);
+
+        }
+
+        // Arne test functions to click eras
+        function eraClick(e) {
+            var schools = Array.prototype.slice.call(document.querySelectorAll('.era:not([name="alleras"])')),
+                selected = e.target,
+                tags = [];
+
+            if (selected.nodeName !== 'A') return;
+            if (selected.name == 'alleras') {
+                selected.classList.add('selected');
+                schools.forEach(function(school) {
+                    school.classList.remove('selected');
+                });
+            }
+            else {
+                document.querySelector('.era[name="alleras"]').classList.remove('selected');
+                selected.classList.toggle('selected');
+                tags = Array.prototype.slice.call(document.querySelectorAll('.era.selected')).map(function(el) { return el.name; });
             }
 
             filterSpells(tags);
@@ -68,6 +91,7 @@
                 spell.parentNode.style.display = 'none';
             });
         }
+
 
   		window.onload = function(){
         document.getElementById("menuIcon").addEventListener( 'click' , menuClick );

@@ -25,21 +25,44 @@
   		}
 
         function schoolClick(e) {
-            var schools = Array.prototype.slice.call(document.querySelectorAll('.spell-school:not([name="all"])')),
+            var schools = Array.prototype.slice.call(document.querySelectorAll('.spell-school:not([name="allschools"])')),
                 selected = e.target,
                 tags = [];
 
             if (selected.nodeName !== 'A') return;
-            if (selected.name == 'all') {
+            if (selected.name == 'allschools') {
                 selected.classList.add('selected');
                 schools.forEach(function(school) {
                     school.classList.remove('selected');
                 });
             }
             else {
-                document.querySelector('.spell-school[name="all"]').classList.remove('selected');
+                document.querySelector('.spell-school[name="allschools"]').classList.remove('selected');
                 selected.classList.toggle('selected');
                 tags = Array.prototype.slice.call(document.querySelectorAll('.spell-school.selected')).map(function(el) { return el.name; });
+            }
+
+            filterSpells(tags);
+
+        }
+
+        // Arne test functions to click eras
+        function eraClick(e) {
+            var schools = Array.prototype.slice.call(document.querySelectorAll('.era:not([name="alleras"])')),
+                selected = e.target,
+                tags = [];
+
+            if (selected.nodeName !== 'A') return;
+            if (selected.name == 'alleras') {
+                selected.classList.add('selected');
+                schools.forEach(function(school) {
+                    school.classList.remove('selected');
+                });
+            }
+            else {
+                document.querySelector('.era[name="alleras"]').classList.remove('selected');
+                selected.classList.toggle('selected');
+                tags = Array.prototype.slice.call(document.querySelectorAll('.era.selected')).map(function(el) { return el.name; });
             }
 
             filterSpells(tags);
@@ -68,6 +91,7 @@
                 spell.parentNode.style.display = 'none';
             });
         }
+
 
   		window.onload = function(){
         document.getElementById("menuIcon").addEventListener( 'click' , menuClick );
@@ -179,7 +203,7 @@
   <dl class="schools-list">
     <dt>Spell schools:</dt>
       <dd>
-        <a class="spell-school selected" name="all">All</a>
+        <a class="spell-school selected" name="allschools">All</a>
       </dd> |
     
       <dd>
@@ -223,7 +247,7 @@
   <dl class="eras-list">
     <dt>Eras:</dt>
       <dd>
-        <a class="era selected" name="all">All</a>
+        <a class="era selected" name="alleras">All</a>
       </dd> |
     
       <dd>
@@ -247,7 +271,7 @@
   <dl class="sources-list">
     <dt>Sources:</dt>
       <dd>
-        <a class="source selected" name="all">All</a>
+        <a class="source selected" name="allsources">All</a>
       </dd> |
     
       <dd>
