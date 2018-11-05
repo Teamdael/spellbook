@@ -292,15 +292,15 @@ pre {
   font-size: 36px;
   margin-top: 7px; }
 
-dl.tag-list, dl.schools-list, dl.eras-list, dl.source-list {
+dl.tag-list, dl.schools-list, dl.eras-list, dl.sources-list {
   display: inline-block;
   margin: 0; }
-  dl.tag-list dt, dl.schools-list dt, dl.eras-list dt, dl.source-list dt {
+  dl.tag-list dt, dl.schools-list dt, dl.eras-list dt, dl.sources-list dt {
     font-weight: bold;
     display: inline-block;
     color: #424242;
     padding-right: 20px; }
-  dl.tag-list dd, dl.schools-list dd, dl.eras-list dd, dl.source-list dd {
+  dl.tag-list dd, dl.schools-list dd, dl.eras-list dd, dl.sources-list dd {
     display: inline;
     padding-right: 20px; }
 
@@ -316,10 +316,10 @@ dl.eras-list dd a {
 dl.eras-list dd a.selected {
   color: #4D96B9; }
 
-dl.source-list dd a {
+dl.sources-list dd a {
   color: #424242;
   border-radius: 4px; }
-dl.source-list dd a.selected {
+dl.sources-list dd a.selected {
   color: #4D96B9; }
 
 .post-list-head {
@@ -346,7 +346,7 @@ dl.source-list dd a.selected {
   color: #828282; }
 .class-list h3 {
   margin-top: 30px; }
-.class-list .tag-list dt, .class-list dl.schools-list dt, .class-list dl.eras-list dt, .class-list dl.source-list dt, .class-list .tag-list dd, .class-list dl.schools-list dd, .class-list dl.eras-list dd, .class-list dl.source-list dd {
+.class-list .tag-list dt, .class-list dl.schools-list dt, .class-list dl.eras-list dt, .class-list dl.sources-list dt, .class-list .tag-list dd, .class-list dl.schools-list dd, .class-list dl.eras-list dd, .class-list dl.sources-list dd {
   margin-left: 0; }
 
 @media screen and (max-width: 750px) {
