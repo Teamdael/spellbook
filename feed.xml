@@ -5,9 +5,28 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://testingtestsaregreat.github.io/spellbook/</link>
     <atom:link href="http://testingtestsaregreat.github.io/spellbook/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 05 Nov 2018 01:39:37 +0100</pubDate>
-    <lastBuildDate>Mon, 05 Nov 2018 01:39:37 +0100</lastBuildDate>
+    <pubDate>Mon, 05 Nov 2018 21:18:19 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Nov 2018 21:18:19 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Nov 2018 21:18:19 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/2017-01-01-antiballistics-field</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/2017-01-01-antiballistics-field</guid>
+        
+        
+      </item>
     
       <item>
         <title>Abi Dalzim's Horrid Wilting</title>
@@ -286,35 +305,6 @@ such as trees and shrubs, wither and die instantly.&lt;/p&gt;
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
         <link>http://testingtestsaregreat.github.io/spellbook/spells/wooden-sanctuary</link>
         <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/wooden-sanctuary</guid>
-        
-        <category>class</category>
-        
-        <category>wizard</category>
-        
-        <category>level</category>
-        
-        <category>necromancy</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/winter-flower</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/winter-flower</guid>
         
         <category>class</category>
         
