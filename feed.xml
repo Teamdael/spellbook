@@ -5,229 +5,36 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://testingtestsaregreat.github.io/spellbook/</link>
     <atom:link href="http://testingtestsaregreat.github.io/spellbook/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Jan 2018 21:59:37 +0100</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2018 21:59:37 +0100</lastBuildDate>
+    <pubDate>Mon, 05 Nov 2018 01:39:37 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Nov 2018 01:39:37 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
-        <title>Wall of Bones</title>
-        <description>&lt;p&gt;&lt;strong&gt;4th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+        <title>Abi Dalzim's Horrid Wilting</title>
+        <description>&lt;p&gt;&lt;strong&gt;8th-level necromancy&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a skeletal hand)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 10 minutes&lt;/p&gt;
-
-&lt;p&gt;A wall of writhing bones and skeletons springs into existence at a point you choose within range. The wall is 4 inches thick and is composed of three 10-foot-by-10-foot panels. Each panel must be contiguous with at least one other panel. If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice).&lt;/p&gt;
-
-&lt;p&gt;Any creature that starts its turn next to a wall must make a Dexterity saving throw or take 1d8 bludgeoning damage and become restrained. The creature can repeat the saving throw at the start of each of its turns, taking the same damage on a failure or freeing itself on a success.&lt;/p&gt;
-
-&lt;p&gt;The wall is an object that can be damaged and thus breached. Each panel has AC 10 and 20 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/wall-of-bones</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/wall-of-bones</guid>
-        
-        <category>bard</category>
-        
-        <category>sorcerer</category>
-        
-        <category>warlock</category>
-        
-        <category>wizard</category>
-        
-        <category>level4</category>
-        
-        <category>conjuration</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Vampire's Kiss</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level enchantment&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Varies (see below)&lt;/p&gt;
-
-&lt;p&gt;You draw out a portion of your own blood as you kiss another humanoid. As you cast the spell, you must expend a number of hit points. The target must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you for 1 hour for every 3 hit points spent on the casting of the spell or until you or your companions do anything harmful to it. The charmed creature falls hopelessly in love with you. When the spell ends, the creature knows it was charmed by you.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/vampires-kiss</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/vampires-kiss</guid>
-        
-        <category>bard</category>
-        
-        <category>sorcerer</category>
-        
-        <category>wizard</category>
-        
-        <category>level2</category>
-        
-        <category>enchantment</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Umbraturgy</title>
-        <description>&lt;p&gt;&lt;strong&gt;Transmutation cantrip&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Up to 1 hour&lt;/p&gt;
-
-&lt;p&gt;You compel shadows to create one of the following effects at a point you can see within range:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The shadow of a creature or object changes size or shape, up to a maximum of double or half its normal size. This effect lasts for up to 1 minute, or until it moves.&lt;/li&gt;
-  &lt;li&gt;You cause shadows to conceal a creature in dim light or darkness, giving them advantage on their next Dexterity (Stealth) check within the next minute as long as they remain in the dim light or darkness.&lt;/li&gt;
-  &lt;li&gt;A creature or object’s shape becomes either harder or softer, making its form either easier or harder to discern from the shape of the shadow. This effect lasts for up to 1 hour.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/umbraturgy</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/umbraturgy</guid>
-        
-        <category>bard</category>
-        
-        <category>cleric</category>
-        
-        <category>sorcerer</category>
-        
-        <category>warlock</category>
-        
-        <category>wizard</category>
-        
-        <category>cantrip</category>
-        
-        <category>transmutation</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Umbral Form</title>
-        <description>&lt;p&gt;&lt;strong&gt;3rd-level transmutation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a wisp of smoke)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
-
-&lt;p&gt;You transform a willing creature you touch, along with everything it’s wearing and carrying, into an animated shadow for the duration. The spell ends if the creature drops to 0 hit points.&lt;/p&gt;
-
-&lt;p&gt;While in this form, the target’s only method of movement is a walking and climbing speed of 30 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution saving throws, and it has advantage on Dexterity (Stealth) checks. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can’t fall and remains stuck to the ground even when stunned or otherwise incapacitated. While in the shadowy form, the target can’t talk or manipulate objects, and any objects it was carrying or holding can’t be dropped, used, or otherwise interacted with. The target can’t attack or cast spells.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/umbral-form</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/umbral-form</guid>
-        
-        <category>sorcerer</category>
-        
-        <category>wizard</category>
-        
-        <category>level3</category>
-        
-        <category>transmutation</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Umbral Assault</title>
-        <description>&lt;p&gt;&lt;strong&gt;7th-level transmutation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
 
-&lt;p&gt;You target a creature within range. The shadows of creatures within 5 feet of the target then turn against the first creature, attacking them from all sides. The target must make a Dexterity saving throw. The creature takes 3d6 necrotic damage for every creature within 5 feet of it of size Small or larger, up to a maximum of 24d6 on a failed save, or half damage on a successful one.&lt;/p&gt;
+&lt;p&gt;You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
+creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
+and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
+such as trees and shrubs, wither and die instantly.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/umbral-assault</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/umbral-assault</guid>
-        
-        <category>bard</category>
-        
-        <category>warlock</category>
-        
-        <category>wizard</category>
-        
-        <category>level7</category>
-        
-        <category>transmutation</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Toll the Dead</title>
-        <description>&lt;p&gt;&lt;strong&gt;Necromancy cantrip&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
-
-&lt;p&gt;You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.&lt;/p&gt;
-
-&lt;p&gt;The spell’s damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/toll-the-dead</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/toll-the-dead</guid>
-        
-        <category>cleric</category>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/zone-of-sweet-air</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zone-of-sweet-air</guid>
         
         <category>sorcerer</category>
         
         <category>wizard</category>
         
-        <category>cantrip</category>
+        <category>level8</category>
         
         <category>necromancy</category>
         
@@ -237,73 +44,33 @@
       </item>
     
       <item>
-        <title>Tides of Blood</title>
-        <description>&lt;p&gt;&lt;strong&gt;3rd-level necromancy (hemomancy)&lt;/strong&gt;&lt;/p&gt;
+        <title>Abi Dalzim's Horrid Wilting</title>
+        <description>&lt;p&gt;&lt;strong&gt;8th-level necromancy&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self (20-foot radius)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 round&lt;/p&gt;
-
-&lt;p&gt;You draw out your own blood as well as the blood of corpses within 20 feet of you. You may choose to expend a number of hit points, and you may also gain the hit points needed from corpses within the radius. Each corpse that had a hit point maximum greater than or equal to 5 in life gives 5 hit points towards the casting of this spell, and then cannot be used to cast this spell again.&lt;/p&gt;
-
-&lt;p&gt;As a bonus action on your next turn, you release the blood. Each creature within 20 feet of you must make a Dexterity saving throw. On a failed save, they take 4d8 + the number of hit points spent as necrotic damage. On a success, they take half damage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/tides-of-blood</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/tides-of-blood</guid>
-        
-        <category>sorcerer</category>
-        
-        <category>wizard</category>
-        
-        <category>level3</category>
-        
-        <category>necromancy</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Synaptic Static</title>
-        <description>&lt;p&gt;&lt;strong&gt;5th-level enchantment&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 120 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
 
-&lt;p&gt;You choose a point within range and cause psychic energy to explode there. Each creature in a 20—foot—radius sphere centered on that point must make an Intelligence saving throw. A creature with an Intelligence score of 2 or lower can’t be affected by this spell. A target takes 8d6 psychic damage on a failed save, or half as much damage on a successful one.&lt;/p&gt;
-
-&lt;p&gt;After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and subtracts the number rolled from all its attack rolls and ability checks, as well as its Constitution saving throws to maintain concentration. The target can make an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success&lt;/p&gt;
+&lt;p&gt;You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
+creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
+and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
+such as trees and shrubs, wither and die instantly.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/synpatic-static</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/synpatic-static</guid>
-        
-        <category>bard</category>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/zone-of-fortification</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zone-of-fortification</guid>
         
         <category>sorcerer</category>
         
-        <category>warlock</category>
-        
         <category>wizard</category>
         
-        <category>level5</category>
+        <category>level8</category>
         
-        <category>enchantment</category>
+        <category>necromancy</category>
         
         
         <category>spells</category>
@@ -311,59 +78,33 @@
       </item>
     
       <item>
-        <title>Summon Lesser Demons</title>
-        <description>&lt;p&gt;&lt;strong&gt;3rd-level conjuration&lt;/strong&gt;&lt;/p&gt;
+        <title>Abi Dalzim's Horrid Wilting</title>
+        <description>&lt;p&gt;&lt;strong&gt;8th-level necromancy&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a vial of blood from a humanoid killed within the past 24 hours)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
 
-&lt;p&gt;You utter foul words, summoning demons from the
-chaos of the Abyss. Roll on the following table to determine what appears.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;d6&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Demons Summoned&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1—2&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Two demons of challenge rating 1 or lower&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3—4&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Four demons of challenge rating 1/2 or lower&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5—6&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Eight demons of challenge rating 1/4 or lower&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The DM chooses the demons, such as manes or dretches, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when
-the spell ends. The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability. As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demons can’t cross the circle or harm it, and they can‘t target anyone within it. Using the material component in this manner consumes it when the spell ends.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.&lt;/p&gt;
+&lt;p&gt;You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
+creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
+and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
+such as trees and shrubs, wither and die instantly.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/summon-lesser-demons</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/summon-lesser-demons</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/zone-of-atmosphere</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zone-of-atmosphere</guid>
         
-        <category>warlock</category>
+        <category>sorcerer</category>
         
         <category>wizard</category>
         
-        <category>level3</category>
+        <category>level8</category>
         
-        <category>conjuration</category>
+        <category>necromancy</category>
         
         
         <category>spells</category>
@@ -371,38 +112,217 @@ the spell ends. The demons are hostile to all creatures, including you. Roll ini
       </item>
     
       <item>
-        <title>Summon Greater Demon</title>
-        <description>&lt;p&gt;&lt;strong&gt;4th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+        <title>Abi Dalzim's Horrid Wilting</title>
+        <description>&lt;p&gt;&lt;strong&gt;8th-level necromancy&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a vial of blood from a humanoid killed within the past 24 hours)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
 
-&lt;p&gt;You utter foul words, summoning one demon from the chaos of the Abyss. You choose the demon’s type, which must be one of challenge rating 5 or lower, such as a shadow demon or a barlgura. The demon appears in an unoccupied space you can see within range, and the demon disappears when it drops to 0 hit points or when the spell ends.&lt;/p&gt;
-
-&lt;p&gt;Roll initiative for the demon, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.&lt;/p&gt;
-
-&lt;p&gt;At the end of each of the demons turns, it makes a Charisma saving throw. The demon has disadvantage on this saving throw if you say its true name. On a failed, save, the demon continues to obey you. On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non—demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn’t disappear for 1d6 rounds if it still has hit points.&lt;/p&gt;
-
-&lt;p&gt;As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demon can’t cross the circle or harm it, and it can’t target anyone within it. Using the material component in this manner consumes it when the spell ends.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.&lt;/p&gt;
+&lt;p&gt;You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
+creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
+and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
+such as trees and shrubs, wither and die instantly.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/summon-greater-demon</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/summon-greater-demon</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/zone-of-altered-time</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zone-of-altered-time</guid>
         
-        <category>warlock</category>
+        <category>sorcerer</category>
         
         <category>wizard</category>
         
-        <category>level4</category>
+        <category>level8</category>
         
-        <category>conjuration</category>
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/zephyrs-feather</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zephyrs-feather</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Abi Dalzim's Horrid Wilting</title>
+        <description>&lt;p&gt;&lt;strong&gt;8th-level necromancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
+creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
+and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
+such as trees and shrubs, wither and die instantly.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/yellow-sign</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/yellow-sign</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level8</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/wyrmskin</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/wyrmskin</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Abi Dalzim's Horrid Wilting</title>
+        <description>&lt;p&gt;&lt;strong&gt;8th-level necromancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
+creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
+and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
+such as trees and shrubs, wither and die instantly.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/worldseek</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/worldseek</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level8</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/wooden-sanctuary</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/wooden-sanctuary</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/winter-flower</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/winter-flower</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
         
         
         <category>spells</category>
