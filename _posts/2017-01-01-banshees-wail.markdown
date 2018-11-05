@@ -3,7 +3,7 @@ layout: post
 title:  "Banshee's Wail"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, wizard, level6, necromancy, hb]
+tags: [bard, cleric, warlock, wizard, level6, necromancy, hb]
 ---
 
 **6th-level necromancy**
