@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title></title>
+    <title>Antiballistics Field</title>
     <meta name="description" content="A searchable D&D 5e spell list, sorted by class and level.">
 
     <link rel="stylesheet" href="/spellbook/css/main.css">
@@ -25,25 +25,71 @@
   		}
 
         function schoolClick(e) {
-            var schools = Array.prototype.slice.call(document.querySelectorAll('.spell-school:not([name="all"])')),
+            var schools = Array.prototype.slice.call(document.querySelectorAll('.spell-school:not([name="allschools"])')),
                 selected = e.target,
                 tags = [];
 
             if (selected.nodeName !== 'A') return;
-            if (selected.name == 'all') {
+            if (selected.name == 'allschools') {
                 selected.classList.add('selected');
                 schools.forEach(function(school) {
                     school.classList.remove('selected');
                 });
             }
             else {
-                document.querySelector('.spell-school[name="all"]').classList.remove('selected');
+                document.querySelector('.spell-school[name="allschools"]').classList.remove('selected');
                 selected.classList.toggle('selected');
                 tags = Array.prototype.slice.call(document.querySelectorAll('.spell-school.selected')).map(function(el) { return el.name; });
             }
 
             filterSpells(tags);
+
         }
+
+        // Arne test functions to click eras
+        function eraClick(e) {
+            var eras = Array.prototype.slice.call(document.querySelectorAll('.era:not([name="alleras"])')),
+                selected = e.target,
+                tags = [];
+
+            if (selected.nodeName !== 'A') return;
+            if (selected.name == 'alleras') {
+                selected.classList.add('selected');
+                eras.forEach(function(era) {
+                    era.classList.remove('selected');
+                });
+            }
+            else {
+                document.querySelector('.era[name="alleras"]').classList.remove('selected');
+                selected.classList.toggle('selected');
+                tags = Array.prototype.slice.call(document.querySelectorAll('.era.selected')).map(function(el) { return el.name; });
+            }
+
+            filterSpells(tags);
+        }
+
+        // Arne test functions to click sources
+        function sourceClick(e) {
+            var sources = Array.prototype.slice.call(document.querySelectorAll('.source:not([name="allsources"])')),
+                selected = e.target,
+                tags = [];
+
+            if (selected.nodeName !== 'A') return;
+            if (selected.name == 'alleras') {
+                selected.classList.add('selected');
+                sources.forEach(function(source) {
+                    source.classList.remove('selected');
+                });
+            }
+            else {
+                document.querySelector('.source[name="allsources"]').classList.remove('selected');
+                selected.classList.toggle('selected');
+                tags = Array.prototype.slice.call(document.querySelectorAll('.source.selected')).map(function(el) { return el.name; });
+            }
+
+            filterSpells(tags);
+        }
+
 
         /**
          * Hide/show spells based on presence of at least one of the given tags.
@@ -69,9 +115,12 @@
             });
         }
 
+
   		window.onload = function(){
         document.getElementById("menuIcon").addEventListener( 'click' , menuClick );
         document.querySelector(".schools-list").addEventListener( 'click', schoolClick );
+        document.querySelector(".eras-list").addEventListener( 'click', eraClick );
+        document.querySelector(".sources-list").addEventListener( 'click', sourceClick );
 	    }
     </script>
 </head>
@@ -131,13 +180,19 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title"></h1>
+    <h1 class="post-title">Antiballistics Field</h1>
     <dl class="tag-list">
     <dt>Tags:</dt>
     
     <dd>
         
-          <a href="/spellbook/tags/class.html">class</a>
+          <a href="/spellbook/tags/shugenja.html">shugenja</a>
+        
+    </dd>
+    
+    <dd>
+        
+          <a href="/spellbook/tags/sorcerer.html">sorcerer</a>
         
     </dd>
     
@@ -159,6 +214,12 @@
         
     </dd>
     
+    <dd>
+        
+          <a href="/spellbook/tags/hb.html">hb</a>
+        
+    </dd>
+    
   </header>
 
   <article class="post-content">
@@ -174,7 +235,7 @@
 
   </article>
 
-  <h4 class="post-source">For more information see .</h4>
+  <h4 class="post-source">For more information see Homebrew</h4>
 
 </div>
 
