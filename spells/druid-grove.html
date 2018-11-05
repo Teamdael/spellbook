@@ -48,15 +48,15 @@
 
         // Arne test functions to click eras
         function eraClick(e) {
-            var schools = Array.prototype.slice.call(document.querySelectorAll('.era:not([name="alleras"])')),
+            var eras = Array.prototype.slice.call(document.querySelectorAll('.era:not([name="alleras"])')),
                 selected = e.target,
                 tags = [];
 
             if (selected.nodeName !== 'A') return;
             if (selected.name == 'alleras') {
                 selected.classList.add('selected');
-                schools.forEach(function(school) {
-                    school.classList.remove('selected');
+                eras.forEach(function(era) {
+                    era.classList.remove('selected');
                 });
             }
             else {
@@ -67,6 +67,29 @@
 
             filterSpells(tags);
         }
+
+        // Arne test functions to click sources
+        function sourceClick(e) {
+            var sources = Array.prototype.slice.call(document.querySelectorAll('.source:not([name="allsources"])')),
+                selected = e.target,
+                tags = [];
+
+            if (selected.nodeName !== 'A') return;
+            if (selected.name == 'alleras') {
+                selected.classList.add('selected');
+                sources.forEach(function(source) {
+                    source.classList.remove('selected');
+                });
+            }
+            else {
+                document.querySelector('.source[name="allsources"]').classList.remove('selected');
+                selected.classList.toggle('selected');
+                tags = Array.prototype.slice.call(document.querySelectorAll('.source.selected')).map(function(el) { return el.name; });
+            }
+
+            filterSpells(tags);
+        }
+
 
         /**
          * Hide/show spells based on presence of at least one of the given tags.
@@ -96,6 +119,8 @@
   		window.onload = function(){
         document.getElementById("menuIcon").addEventListener( 'click' , menuClick );
         document.querySelector(".schools-list").addEventListener( 'click', schoolClick );
+        document.querySelector(".eras-list").addEventListener( 'click', eraClick );
+        document.querySelector(".sources-list").addEventListener( 'click', sourceClick );
 	    }
     </script>
 </head>
