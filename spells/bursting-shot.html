@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title></title>
+    <title>Bursting Shot</title>
     <meta name="description" content="A searchable D&D 5e spell list, sorted by class and level.">
 
     <link rel="stylesheet" href="/spellbook/css/main.css">
@@ -75,7 +75,7 @@
                 tags = [];
 
             if (selected.nodeName !== 'A') return;
-            if (selected.name == 'alleras') {
+            if (selected.name == 'allsources') {
                 selected.classList.add('selected');
                 sources.forEach(function(source) {
                     source.classList.remove('selected');
@@ -180,13 +180,25 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title"></h1>
+    <h1 class="post-title">Bursting Shot</h1>
     <dl class="tag-list">
     <dt>Tags:</dt>
     
     <dd>
         
-          <a href="/spellbook/tags/class.html">class</a>
+          <a href="/spellbook/tags/sorcerer.html">sorcerer</a>
+        
+    </dd>
+    
+    <dd>
+        
+          <a href="/spellbook/tags/warlock.html">warlock</a>
+        
+    </dd>
+    
+    <dd>
+        
+          <a href="/spellbook/tags/warmage.html">warmage</a>
         
     </dd>
     
@@ -198,32 +210,48 @@
     
     <dd>
         
-          <a href="/spellbook/#level">level</a>
+          <a href="/spellbook/#cantrip">cantrip</a>
         
     </dd>
     
     <dd>
         
-          <a href="/spellbook/tags/necromancy.html">necromancy</a>
+          <a href="/spellbook/tags/evocation.html">evocation</a>
+        
+    </dd>
+    
+    <dd>
+        
+          <a href="/spellbook/tags/ren.html">ren</a>
+        
+    </dd>
+    
+    <dd>
+        
+          <a href="/spellbook/tags/hb.html">hb</a>
         
     </dd>
     
   </header>
 
   <article class="post-content">
-    <p><strong>nth-level mancy</strong></p>
+    <p><strong>Evocation cantrip</strong></p>
 
-<p><strong>Casting Time</strong>: ..</p>
+<p><strong>Casting Time</strong>: 1 action</p>
 
-<p><strong>Range</strong>: .. feet</p>
+<p><strong>Range</strong>: Self</p>
 
-<p><strong>Components</strong>: V, S, M (a bit of sponge)</p>
+<p><strong>Components</strong>: V, S, M (a firearm)</p>
 
 <p><strong>Duration</strong>: Instantaneous</p>
 
+<p>As part of the action used to cast this spell, you must make an attack with a firearm, otherwise the spell fails. On a hit, the shot bursts, dealing thunder damage equal to your spellcasting ability modifier to the target and 1d6 to each other creature within 5 feet of it.</p>
+
+<p>The spell’s damage to creatures other than the target increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>
+
   </article>
 
-  <h4 class="post-source">For more information see .</h4>
+  <h4 class="post-source">For more information see From the Arcane Archive</h4>
 
 </div>
 

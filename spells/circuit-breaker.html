@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title></title>
+    <title>Circuit Breaker</title>
     <meta name="description" content="A searchable D&D 5e spell list, sorted by class and level.">
 
     <link rel="stylesheet" href="/spellbook/css/main.css">
@@ -75,7 +75,7 @@
                 tags = [];
 
             if (selected.nodeName !== 'A') return;
-            if (selected.name == 'alleras') {
+            if (selected.name == 'allsources') {
                 selected.classList.add('selected');
                 sources.forEach(function(source) {
                     source.classList.remove('selected');
@@ -180,13 +180,25 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title"></h1>
+    <h1 class="post-title">Circuit Breaker</h1>
     <dl class="tag-list">
     <dt>Tags:</dt>
     
     <dd>
         
-          <a href="/spellbook/tags/class.html">class</a>
+          <a href="/spellbook/tags/shugenja.html">shugenja</a>
+        
+    </dd>
+    
+    <dd>
+        
+          <a href="/spellbook/tags/sorcerer.html">sorcerer</a>
+        
+    </dd>
+    
+    <dd>
+        
+          <a href="/spellbook/tags/warlock.html">warlock</a>
         
     </dd>
     
@@ -198,32 +210,48 @@
     
     <dd>
         
-          <a href="/spellbook/#level">level</a>
+          <a href="/spellbook/#level2">level2</a>
         
     </dd>
     
     <dd>
         
-          <a href="/spellbook/tags/necromancy.html">necromancy</a>
+          <a href="/spellbook/tags/evocation.html">evocation</a>
+        
+    </dd>
+    
+    <dd>
+        
+          <a href="/spellbook/tags/hb.html">hb</a>
+        
+    </dd>
+    
+    <dd>
+        
+          <a href="/spellbook/tags/fut.html">fut</a>
         
     </dd>
     
   </header>
 
   <article class="post-content">
-    <p><strong>nth-level mancy</strong></p>
+    <p><strong>2nd-level evocation</strong></p>
 
-<p><strong>Casting Time</strong>: ..</p>
+<p><strong>Casting Time</strong>: 1 reaction, which you take when you are damaged by a creature you can see within 5 feet of you</p>
 
-<p><strong>Range</strong>: .. feet</p>
+<p><strong>Range</strong>: Self (5-foot radius)</p>
 
-<p><strong>Components</strong>: V, S, M (a bit of sponge)</p>
+<p><strong>Components</strong>: V, S</p>
 
 <p><strong>Duration</strong>: Instantaneous</p>
 
+<p>You let out a burst of electricity, shocking those nearby and temporarily overloading devices. Each creature within 5 feet of you must make a Dexterity saving throw or take 3d8 lightning damage, or half as much on a successful save. Each piece of magical technology within range is also disabled until the end of your next turn.</p>
+
+<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 1st.</p>
+
   </article>
 
-  <h4 class="post-source">For more information see .</h4>
+  <h4 class="post-source">For more information see From the Arcane Archive</h4>
 
 </div>
 
