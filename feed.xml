@@ -5,258 +5,33 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://testingtestsaregreat.github.io/spellbook/</link>
     <atom:link href="http://testingtestsaregreat.github.io/spellbook/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 18 Nov 2018 18:47:19 +0100</pubDate>
-    <lastBuildDate>Sun, 18 Nov 2018 18:47:19 +0100</lastBuildDate>
+    <pubDate>Wed, 26 Dec 2018 00:33:49 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Dec 2018 00:33:49 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
-        <title>Zone of Sweet Air</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level abjuration (ritual)&lt;/strong&gt;&lt;/p&gt;
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a silk handkerchief)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 10 Minutes&lt;/p&gt;
-
-&lt;p&gt;You create an invisible magical zone that eliminates noxious airs in a 15-foot radius sphere centered on a point of your choice within range.
-All poisonous or otherwise damaging gases of natural or magical origin, except those created by breath weapons, are blocked by this spell and cannot enter the zone. Fresh air passes into the zone without hindrance. If any fumes are present when the spell was cast, or are created inside the area of protection, they are instantaneously purged from it.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/zone-of-sweet-air</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zone-of-sweet-air</guid>
-        
-        <category>bard</category>
-        
-        <category>paladin</category>
-        
-        <category>cleric</category>
-        
-        <category>shugenja</category>
-        
-        <category>witch</category>
-        
-        <category>level7</category>
-        
-        <category>abjuration</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Zone of Fortification</title>
-        <description>&lt;p&gt;&lt;strong&gt;7th-level conjuration [renaissance]&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 10 minutes&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a replica castle figurine worth at least 100 gp)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 24 hours&lt;/p&gt;
-
-&lt;p&gt;You conjure defenses to protect up to 5,000 square feet of floor space (an area approximately 70 feet square, or two hundred 5-foot squares or fifty 10-foot squares). The protected area can be up to 20 feet tall, and shaped as you desire. You can fortify several stories of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.
-When you cast this spell, you can specify individuals that are unaffected by any or all of the effects that you choose. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.
-Zone of fortification creates the following effects within the fortified area.
-Corridors. Caltrops fill all the fortified corridors. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you will believe it can hear gunfire from one randomly-determined direction.
-Ballistic Protection. You can place up to two fixed instances of the protection from ballistics spell in two locations of your choice within the fortified area.
-Doors. All doors in the fortified area are magically locked, as if sealed by an arcane lock spell. In addition, you can replace up to ten doors with armored bulkheads that are immune to nonmagical damage and feature gunports that allow creatures adjacent to the door to make ranged attacks through them, while benefiting from full cover against anyone on the other side.
-Sandbags. You can also place up to twenty-five sections of sandbags anywhere in the fortified area. Each section is five feet long and one foot thick, has 10 HP, 16 AC and is immune to all damage except thunder. The sections must be supported by solid ground and can be contiguous, but do not have to be. Sandbags confer half cover to anyone crouched behind them.
-Stairs. Stairs in the fortified area are sown with ball bearings from top to bottom. These balls reappear in 10 minutes if they are dispersed while spell lasts.
-The entire fortified area radiates magic. A dispel magic cast on a specific effect, if successful, removes only that effect.
-You can create a permanently fortified structure by casting this spell there every day for one year.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/zone-of-fortification</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zone-of-fortification</guid>
-        
-        <category>cleric</category>
-        
-        <category>level7</category>
-        
-        <category>conjuration</category>
-        
-        <category>hb</category>
-        
-        <category>ren</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Zone of Atmosphere</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level conjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a glass fish bowl worth 10 gp)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 hour&lt;/p&gt;
-
-&lt;p&gt;You create a spherical area of clean, breathable air centered on a point within range for the duration. The sphere can have any radius you choose to a maximum of 30 feet. If the point you choose is on an object you are holding or one that isn’t being worn or carried, the sphere is centered on the object and moves with it.
-Airborne substances such as poisonous gas, smoke, or fog cannot enter the sphere, and any such substances already within the sphere’s area are destroyed. If such a substance is created by a spell of a higher level than this one, it is unaffected.
-The area’s temperature is comfortable, regardless of the outside environment.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/zone-of-atmosphere</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zone-of-atmosphere</guid>
-        
-        <category>bard</category>
-        
-        <category>cleric</category>
-        
-        <category>druid</category>
-        
-        <category>ranger</category>
-        
-        <category>shugenja</category>
-        
-        <category>sorcerer</category>
-        
-        <category>warlock</category>
-        
-        <category>witch</category>
-        
-        <category>wizard</category>
-        
-        <category>level2</category>
-        
-        <category>conjuration</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Zone of Altered Time</title>
-        <description>&lt;p&gt;&lt;strong&gt;9th-level chronomancy&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a pair of hourglasses, worth at least 100gp each)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 hour&lt;/p&gt;
-
-&lt;p&gt;You create a transparent magical zone where time flows differently in a 50-foot cube centered on a point of your choice within range. No material, spell or effect can pass into or out of the zone unless it travels through another plane of existence to do so (such as by using misty step, etherealness, or dimension door.) Choose one of the following effects for the zone.
-Dilated Time. Time passes slower inside the zone, so that any creatures inside it experience 10 minutes for every hour that passes outside.
-Hyperbolic Time. Time passes faster inside the zone, so that any creatures inside it experience 24 hours for every hour that passes outside.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/zone-of-altered-time</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zone-of-altered-time</guid>
-        
-        <category>bard</category>
-        
-        <category>cleric</category>
-        
-        <category>shugenja</category>
-        
-        <category>sorcerer</category>
-        
-        <category>witch</category>
-        
-        <category>wizard</category>
-        
-        <category>hb</category>
-        
-        <category>level9</category>
-        
-        <category>chronomancy</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Zephyr's Feather</title>
-        <description>&lt;p&gt;&lt;strong&gt;1st-level conjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a dove�s feather)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
-
-&lt;p&gt;You wave your hand and three alabaster feathers, magically sharpened to a razor�s edge, appear and orbit you. When you cast this spell, make a ranged spell attack using one of your feathers against a creature within 120 feet of you. On a hit, the target takes 2d8 slashing damage. Until the spell ends, while you have feathers remaining, you can make the attack again on each of your turns as an action.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st. You gain an additional 2 feathers when you cast this spell using a spell slot of 3rd level or higher (5 feathers), and 5th level or higher (7 feathers).&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/zephyrs-feather</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/zephyrs-feather</guid>
-        
-        <category>channeler</category>
-        
-        <category>cleric</category>
-        
-        <category>paladin</category>
-        
-        <category>ranger</category>
-        
-        <category>level1</category>
-        
-        <category>conjuration</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Yellow Sign</title>
-        <description>&lt;p&gt;&lt;strong&gt;3rd-level evocation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
-
-&lt;p&gt;You trace in the air the insidious symbol from Lost Carcosa, the yellow sign, where it hangs for a long moment in a sickening yellow light. Each creature you choose within 30 feet of the sign must make a Wisdom saving throw. On a failed save, a creature takes 6d6 psychic damage, or half as much on a successful save. Aberrations take no damage from this spell. The sign fades at the end of your turn.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the yellow sign lingers longer in the air. The duration of this spell increases by one round for each slot level above 3rd and requires that you maintain concentration on it. If this spell is active at the beginning on your turn, you can use your action to cause each creature within range to make another saving throw against it, taking damage as normal on a failed save.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/yellow-sign</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/yellow-sign</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/rusting-grasp</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/rusting-grasp</guid>
         
-        <category>bard</category>
-        
-        <category>channeler</category>
-        
-        <category>sorcerer</category>
-        
-        <category>warlock</category>
-        
-        <category>witch</category>
+        <category>class</category>
         
         <category>wizard</category>
         
-        <category>level3</category>
+        <category>level</category>
         
-        <category>evocation</category>
-        
-        <category>hb</category>
+        <category>necromancy</category>
         
         
         <category>spells</category>
@@ -264,86 +39,28 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
       </item>
     
       <item>
-        <title>Wyrmskin</title>
-        <description>&lt;p&gt;&lt;strong&gt;3rd-level transmutation&lt;/strong&gt;&lt;/p&gt;
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, M (a dragon scale)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
-
-&lt;p&gt;This spell transforms you into a dragon of the same color as the scale provided for the material component. The transformation lasts for the duration, or until you drop to 0 hit points or die. Your draconic form is a wyrmling of the dragon whose scale you possess. Your game statistics are replaced by the wyrmling�s statistics, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You lose the ability to cast spells in this form and the ability to use any class features that your draconic form could not feasibly perform. Your gear melds into the new form. You can’t activate, use, wield, or otherwise benefit from any of your equipment.
-At Higher Levels. Casting this spell using a 6th or 7th level spell slot allows you to transform into the young dragon of the dragon whose scale you provided as the material component for this casting. Casting this spell using an 8th or 9th level spell slot allows you to transform into the adult dragon of the dragon whose scale you provided as the material component for this casting.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/wyrmskin</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/wyrmskin</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/rumbling-charge</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/rumbling-charge</guid>
         
-        <category>druid</category>
-        
-        <category>sorcerer</category>
-        
-        <category>level3</category>
-        
-        <category>transmutation</category>
-        
-        <category>hb</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Worldseek</title>
-        <description>&lt;p&gt;&lt;strong&gt;1st-level divination (ritual) [futuristic]&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a spyglass)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
-
-&lt;p&gt;This spell reveals the path to the nearest planet to you. For the duration, you know the direction and the distance to the nearest planet, planetoid, or moon. If you cast this spell while you’re on a planet, planetoid, or moon, the spell fails.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/worldseek</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/worldseek</guid>
-        
-        <category>bard</category>
-        
-        <category>channeler</category>
-        
-        <category>cleric</category>
-        
-        <category>druid</category>
-        
-        <category>paladin</category>
-        
-        <category>ranger</category>
-        
-        <category>shugenja</category>
-        
-        <category>sorcerer</category>
-        
-        <category>warlock</category>
-        
-        <category>witch</category>
+        <category>class</category>
         
         <category>wizard</category>
         
-        <category>level1</category>
+        <category>level</category>
         
-        <category>divination</category>
-        
-        <category>hb</category>
-        
-        <category>fut</category>
+        <category>necromancy</category>
         
         
         <category>spells</category>
@@ -351,36 +68,148 @@ At Higher Levels. Casting this spell using a 6th or 7th level spell slot allows 
       </item>
     
       <item>
-        <title>Wooden Sanctuary</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level transmutation&lt;/strong&gt;&lt;/p&gt;
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/ruby-eye-curse</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/ruby-eye-curse</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/riptide</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/riptide</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/restore-youth</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/restore-youth</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/repulsor-ring</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/repulsor-ring</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Rend Shadows</title>
+        <description>&lt;p&gt;&lt;strong&gt;4th-level necromancy&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
 
-&lt;p&gt;You step into a wooden object or tree large enough to fully contain your body, melding yourself and all the equipment you carry with the wood for the duration. Using your movement, you step into the wood at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.
-While merged with the wood, you can�t see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the wood. You can use your movement to leave the wood where you entered it, which ends the spell. You otherwise can�t move.
-Minor physical damage to the wood doesn�t harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 3d6 bludgeoning damage to you; the same happens if your concentration is broken while merged with the wood. The wood�s complete destruction (or transmutation into a different substance) expels you and deals 25 bludgeoning damage to you. If expelled, you fall prone in an unoccupied space closest to where you first entered.&lt;/p&gt;
+&lt;p&gt;Choose up to 4 creatures within range. Each creature has their shadow forcibly ripped from their body, conjuring a Shadow (see &lt;em&gt;Monster Manual&lt;/em&gt; pg. 269) in an unoccupied space next to them. As long as the shadow is separate from their body, they do not cast a shadow. A shadow created through this spell reforms with its host when it drops to 0 hit points or when the spell ends, and it disappears if it’s host dies. If its host dies, a new shadow does not rise from the corpse.&lt;/p&gt;
+
+&lt;p&gt;The shadows seek only to attack the creature they were separated from, and disappear when that creature is killed. Roll initiative for the shadows as a group, which has its own turns. They spend their turns attacking their host, without any thought for strategy or tactics. The DM has the creature’s statistics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using certain higher level spell slots, you can target more creatures: 8 with a 6th-level slot and 12 with an 8th-level slot.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/wooden-sanctuary</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/wooden-sanctuary</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/rend-shadows</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/rend-shadows</guid>
         
-        <category>cleric</category>
+        <category>wizard</category>
         
-        <category>druid</category>
+        <category>level4</category>
         
-        <category>ranger</category>
-        
-        <category>witch</category>
-        
-        <category>level2</category>
-        
-        <category>transmutation</category>
+        <category>necromancy</category>
         
         <category>hb</category>
         
@@ -390,38 +219,86 @@ Minor physical damage to the wood doesn�t harm you, but its partial destructio
       </item>
     
       <item>
-        <title>Winter Flower</title>
-        <description>&lt;p&gt;&lt;strong&gt;6th-level evocation&lt;/strong&gt;&lt;/p&gt;
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 120 feet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a crystal flower)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 24 hours&lt;/p&gt;
-
-&lt;p&gt;You cause a Small white flower to grow in an unoccupied 5-foot square you can see within range. The flower has an AC of 15, 3 hit points, and vulnerability to fire damage. During the duration of the spell, you can use a bonus action to command it to explode in a shower of ice. Alternatively, the flower will explode if it is reduced to 0 hit points. When the flower explodes, each creature within 30 feet of it must make a Dexterity saving throw. On a failed save, a creature takes 10d8 cold damage, or half as much on a successful one. The flower withers and dies if it does not explode within 24 hours.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://testingtestsaregreat.github.io/spellbook/spells/winter-flower</link>
-        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/winter-flower</guid>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/relaxing-meditation</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/relaxing-meditation</guid>
         
-        <category>cleric</category>
-        
-        <category>druid</category>
-        
-        <category>shugenja</category>
-        
-        <category>sorcerer</category>
+        <category>class</category>
         
         <category>wizard</category>
         
-        <category>level6</category>
+        <category>level</category>
         
-        <category>evocation</category>
+        <category>necromancy</category>
         
-        <category>hb</category>
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/refrigerate</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/refrigerate</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;nth-level mancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: ..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: .. feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://testingtestsaregreat.github.io/spellbook/spells/reckless-dweomer</link>
+        <guid isPermaLink="true">http://testingtestsaregreat.github.io/spellbook/spells/reckless-dweomer</guid>
+        
+        <category>class</category>
+        
+        <category>wizard</category>
+        
+        <category>level</category>
+        
+        <category>necromancy</category>
         
         
         <category>spells</category>
