@@ -336,6 +336,7 @@ dl.sources-list dd a.selected {
     margin-bottom: 7px;
     margin-left: 30px; }
   .post-list > a {
+    display: inline;
     padding: 0; }
 
 .post-meta {
