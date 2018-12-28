@@ -344,7 +344,7 @@ dl.sources-list dd a.selected {
   color: #828282; }
 
 .post-link {
-  display: block;
+  display: inline;
   font-size: 18px; }
 
 .class-list .page-heading {
