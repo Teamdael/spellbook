@@ -337,7 +337,8 @@ dl.sources-list dd a.selected {
     margin-left: 30px; }
   .post-list > a {
     display: inline;
-    padding: 0; }
+    padding: 0;
+    font-size: 14px; }
 
 .post-meta {
   font-size: 18px;
@@ -345,7 +346,7 @@ dl.sources-list dd a.selected {
 
 .post-link {
   display: inline;
-  font-size: 18px; }
+  font-size: 14px; }
 
 .class-list .page-heading {
   color: #828282; }
