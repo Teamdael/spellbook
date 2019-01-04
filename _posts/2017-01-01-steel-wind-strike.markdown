@@ -3,7 +3,7 @@ layout: post
 title: "Steel Wind Strike"
 date: 2017-01-01
 source: XGTE.166
-tags: [ranger, wizard, level5, conjuration]
+tags: [ranger, wizard, level5, conjuration, xgte, fan]
 ---
 
 **5th-level conjuration**

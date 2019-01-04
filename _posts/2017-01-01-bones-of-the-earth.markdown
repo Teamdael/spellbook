@@ -3,7 +3,7 @@ layout: post
 title:  "Bones of the Earth"
 date:   2017-01-01
 source: XGTE.150
-tags: [druid, level6, transmutation]
+tags: [druid, level6, transmutation, xgte, fan]
 ---
 
 **6th-level transmutation**

@@ -3,7 +3,7 @@ layout: post
 title:  "Call Lightning"
 date:   2015-01-01
 source: PHB.220
-tags: [druid, level3, conjuration]
+tags: [druid, level3, conjuration, phb, fan]
 ---
 
 **3rd-level conjuration**

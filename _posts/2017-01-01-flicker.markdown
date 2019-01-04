@@ -3,7 +3,7 @@ layout: post
 title:  "Flicker"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, sorcerer, wizard, level3, transmutation, hb]
+tags: [bard, sorcerer, wizard, level3, transmutation, hb, fan]
 ---
 
 **3rd-level transmutation**

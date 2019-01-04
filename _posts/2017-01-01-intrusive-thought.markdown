@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Intrusive Thought"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, sorcerer, warlock, witch, wizard, level2, transmutation, hb, fan]
 ---
 
-**8th-level necromancy**
+**2nd-level transmutation**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 reaction, which you take when you see a creature within 60 feet of you taking an action
 
-**Range**: 150 feet
+**Range**: 60 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
 **Duration**: Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+As a reaction when a creature you can see within range takes the Attack, Dash, Dodge, or Disengage action, you can attempt to distort its thinking. The target makes a Wisdom saving throw. On a failed save, the creature instead takes your choice of those actions.

@@ -3,7 +3,7 @@ layout: post
 title: "Find Greater Steed"
 date: 2017-01-01
 source: XGTE.156
-tags: [paladin, level4, conjuration]
+tags: [paladin, level4, conjuration, xgte, fan]
 ---
 
 **4th-level conjuration**

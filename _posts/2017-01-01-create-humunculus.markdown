@@ -3,7 +3,7 @@ layout: post
 title: "Create Homunculus"
 date: 2017-01-01
 source: XGTE.152
-tags: [wizard, level6, transmutation]
+tags: [wizard, level6, transmutation, xgte, fan]
 ---
 
 **6th-level transmutation**

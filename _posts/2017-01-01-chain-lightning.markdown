@@ -3,7 +3,7 @@ layout: post
 title: "Chain Lightning"
 date: 2015-07-14
 source: PHB.221
-tags: [sorcerer, wizard, level6, evocation]
+tags: [sorcerer, wizard, level6, evocation, phb, fan]
 ---
 
 **6th-level evocation**

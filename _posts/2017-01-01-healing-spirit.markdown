@@ -3,7 +3,7 @@ layout: post
 title:  "Healing Spirit"
 date:   2017-01-01
 source: XGTE.157
-tags: [druid, ranger, level2, conjuration]
+tags: [druid, ranger, level2, conjuration, xgte, fan]
 ---
 
 **2nd-level conjuration**

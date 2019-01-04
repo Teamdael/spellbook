@@ -3,7 +3,7 @@ layout: post
 title: "Mass Polymorph"
 date: 2017-01-01
 source: XGTE.160
-tags: [bard, sorcerer, wizard, level9, transmutation]
+tags: [bard, sorcerer, wizard, level9, transmutation, xgte, fan]
 ---
 
 **9th-level transmutation**

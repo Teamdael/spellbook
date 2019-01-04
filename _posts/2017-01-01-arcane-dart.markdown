@@ -3,7 +3,7 @@ layout: post
 title:  "Arcane Dart"
 date:   2014-08-24
 source: Homebrew
-tags: [sorcerer, wizard, cantrip, evocation, hb]
+tags: [sorcerer, wizard, cantrip, evocation, hb, fan]
 ---
 
 **Evocation cantrip**

@@ -3,7 +3,7 @@ layout: post
 title:  "Crown of Stars"
 date:   2017-01-01
 source: XGTE.152
-tags: [sorcerer, warlock, wizard, level7, evocation]
+tags: [sorcerer, warlock, wizard, level7, evocation, xgte, fan]
 ---
 
 **7th-level evocation**

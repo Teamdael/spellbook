@@ -2,8 +2,8 @@
 layout: post
 title:  "Frostbite"
 date:   2015-11-11
-source: EE.18
-tags: [druid, sorcerer, warlock, wizard, cantrip, evocation]
+source: XGTE.156
+tags: [druid, sorcerer, warlock, wizard, cantrip, evocation, xgte, fan]
 ---
 
 **Evocation cantrip**

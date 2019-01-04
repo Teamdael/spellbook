@@ -3,7 +3,7 @@ layout: post
 title:  "Vampire's Kiss"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, sorcerer, wizard, level2, enchantment, hb]
+tags: [bard, sorcerer, wizard, level2, enchantment, hb, fan]
 ---
 
 **2nd-level enchantment**

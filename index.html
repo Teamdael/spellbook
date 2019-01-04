@@ -13,10 +13,11 @@ layout: default
     </dd>
     {% endfor %}
   </dl>
+
   <dl class="schools-list">
     <dt>Spell schools:</dt>
       <dd>
-        <a class="spell-school selected" name="all">All</a>
+        <a class="spell-school selected" name="allschools">All</a>
       </dd> |
     {% for spellSchool in site.data.schools %}
       <dd>
@@ -24,6 +25,31 @@ layout: default
       </dd>
     {% endfor %}
   </dl>
+
+  <dl class="eras-list">
+    <dt>Eras:</dt>
+      <dd>
+        <a class="era selected" name="alleras">All</a>
+      </dd> |
+    {% for era in site.data.eras %}
+      <dd>
+        <a class="era" name="{{ era.tag }}">{{ era.name }}</a>
+      </dd>
+    {% endfor %}
+  </dl>
+
+  <dl class="sources-list">
+    <dt>Sources:</dt>
+      <dd>
+        <a class="source selected" name="allsources">All</a>
+      </dd> |
+    {% for source in site.data.sources %}
+      <dd>
+        <a class="source" name="{{ source.tag }}">{{ source.name }}</a>
+      </dd>
+    {% endfor %}
+  </dl>
+
   {% for level in site.data.levels %}
     <a id="{{level.tag}}"></a>
     <h2 class="post-list-head jetsHide">{{level.title}}</h2>

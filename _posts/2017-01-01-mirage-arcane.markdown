@@ -3,7 +3,7 @@ layout: post
 title:  "Mirage Arcane"
 date:   2015-01-11
 source: PHB.260
-tags:   [bard, druid, wizard, level7, illusion]
+tags:   [bard, druid, wizard, level7, illusion, phb, fan]
 ---
 
 **7th-level illusion**

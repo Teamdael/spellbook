@@ -3,7 +3,7 @@ layout: post
 title:  "Synaptic Static"
 date:   2017-01-01
 source: XGTE.167
-tags: [bard, sorcerer, warlock, wizard, level5, enchantment]
+tags: [bard, sorcerer, warlock, wizard, level5, enchantment, xgte, fan]
 ---
 
 **5th-level enchantment**

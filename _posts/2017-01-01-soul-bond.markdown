@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  ""
+title:  "Soul Bound"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [warlock, witch, wizard, level4, necromancy, hb, fan]
 ---
 
-**nth-level mancy**
+**4th-level necromancy (ritual)**
 
-**Casting Time**: ..
+**Casting Time**: 1 minute
 
-**Range**: .. feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (two nails from a coffin)
 
-**Duration**: Instantaneous
+**Duration**: 24 hours
+
+This spell forges a mortal connection between yourself and a creature that you touch. A target creature must be present for the entire time of casting. If the creature is unwilling, it must make a Constitution saving throw to resist the spell's effects.
+For the duration, if you are reduced to 0 hit points, the target is also reduced to 0 hit points, and vice versa. This spell ends if you cast it again, or if you choose to dismiss it as an action.

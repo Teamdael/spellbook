@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  ""
+title:  "Aberrate"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [cleric, druid, warlock, wizard, level2, transmutation, hb, fan]
 ---
 
-**nth-level mancy**
+**2nd-level transmutation**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 10 minutes
+
+This spell uses energies from the Far Realm to distort your body. As a result, your anatomy becomes fluid, constantly refreshing into new and more terrible shapes. For the duration, you do not take extra damage from critical hits.
+Additionally, your body adapts to threats as it warps. After you take damage while this spell is active, you can use your reaction to gain resistance to that damage type until this spell ends or until you use this ability again to gain resistance to a different damage type.

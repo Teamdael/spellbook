@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  ""
+title:  "Vortex"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [druid, shugenja, sorcerer, warlock, witch, wizard, level4, evocation, hb, ren]
 ---
 
-**nth-level mancy**
+**4th-level evocation [renaissance]**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: 600 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a cork or rubber stopper tied to a string)
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 1 minute
+
+A 100-foot-radius area of water that you specify within range begins to rapidly rotate, becoming a violent whirlpool in seconds. When a ship enters the affected area for the first time on a turn or starts its turn there, its helmsman must make a Dexterity (Sailing) check against your spell save DC. On a failed check, the ship cannot move for that turn, and is pulled 50 feet toward the center of the area. Ships that are pulled into the center of the area take 4d10 bludgeoning damage and gain 1d4 leaks.
+At the start of your turn, swimming creatures and floating objects within the area are pulled 25 feet toward the center of the vortex. If a creature starts its turn in the center of the vortex, it must succeed on a Strength saving throw or be pulled under the water by suction forces. The creature can repeat the save at the start of each of its turns.

@@ -3,7 +3,7 @@ layout: post
 title: "Animate Objects"
 date: 2015-07-14
 source: PHB.213
-tags: [bard, sorcerer, wizard, level5, transmutation]
+tags: [bard, sorcerer, wizard, level5, transmutation, fan, hb]
 ---
 
 **5th-level transmutation**

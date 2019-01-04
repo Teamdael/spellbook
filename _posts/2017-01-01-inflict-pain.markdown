@@ -3,7 +3,7 @@ layout: post
 title:  "Inflict Pain"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, cleric, level1, necromancy, hb]
+tags: [bard, cleric, level1, necromancy, hb, fan]
 ---
 
 **1st-level necromancy (hemomancy)**

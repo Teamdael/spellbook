@@ -3,7 +3,7 @@ layout: post
 title:  "Bloodletting"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [sorcerer, wizard, cantrip, necromancy, hb]
+tags: [sorcerer, wizard, cantrip, necromancy, hb, fan]
 ---
 
 **Necromancy cantrip (hemomancy)**

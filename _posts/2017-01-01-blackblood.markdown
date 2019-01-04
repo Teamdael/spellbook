@@ -3,7 +3,7 @@ layout: post
 title:  "Blackblood"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, wizard, level1, transmutation, hb]
+tags: [cleric, sorcerer, wizard, level1, transmutation, hb, fan]
 ---
 
 **1st-level transmutation (hemomancy)**

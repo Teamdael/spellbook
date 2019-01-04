@@ -3,7 +3,7 @@ layout: post
 title: "Feeblemind"
 date: 2015-01-10
 source: PHB.239
-tags: [bard, druid, warlock, wizard, level8, enchantment]
+tags: [bard, druid, warlock, wizard, level8, enchantment, phb, fan]
 ---
 
 **8th-level enchantment**
@@ -22,4 +22,4 @@ On a failed save, the creature's Intelligence and Charisma scores become 1. The 
 
 At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.
 
-The spell can also be ended by _[greater restoration](greater-restoration/ "greater restoration (lvl 5)")_, _[heal](heal/ "heal (lvl 6)")_, or _[wish](wish "wish (lvl 9)")_.
+The spell can also be ended by *greater restoration*, *heal*, or *wish*.

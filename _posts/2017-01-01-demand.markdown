@@ -1,22 +1,20 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Demand"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, sorcerer, wizard, level6, enchantment, hb, fan]
 ---
 
-**8th-level necromancy**
+**6th-level enchantment**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: Unlimited
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a snake's tongue and a piece of copper wire)
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 8 hours
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You send a short message of twenty-five words or fewer to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message. You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn’t arrive.
+You can use this message to suggest a reasonable sounding course of activity to the target, in which case the target must make a Wisdom saving throw or be compelled to follow your instructions for the duration, as per the suggestion spell.

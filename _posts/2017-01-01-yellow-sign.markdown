@@ -1,22 +1,20 @@
----
+﻿---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Yellow Sign"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, channeler, sorcerer, warlock, witch, wizard, level3, evocation, hb, fan]
 ---
 
-**8th-level necromancy**
+**3rd-level evocation**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
 **Duration**: Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You trace in the air the insidious symbol from Lost Carcosa, the yellow sign, where it hangs for a long moment in a sickening yellow light. Each creature you choose within 30 feet of the sign must make a Wisdom saving throw. On a failed save, a creature takes 6d6 psychic damage, or half as much on a successful save. Aberrations take no damage from this spell. The sign fades at the end of your turn.
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the yellow sign lingers longer in the air. The duration of this spell increases by one round for each slot level above 3rd and requires that you maintain concentration on it. If this spell is active at the beginning on your turn, you can use your action to cause each creature within range to make another saving throw against it, taking damage as normal on a failed save.

@@ -232,6 +232,35 @@ dl.schools-list {
     }
 }
 
+dl.eras-list {
+    @extend .tag-list;
+    dd {
+
+        a {
+            color: $grey-color-dark;
+            border-radius: 4px;
+        }
+        a.selected {
+            color: $brand-color;
+        }
+    }
+}
+
+dl.sources-list {
+    @extend .tag-list;
+    dd {
+
+        a {
+            color: $grey-color-dark;
+            border-radius: 4px;
+        }
+        a.selected {
+            color: $brand-color;
+        }
+    }
+}
+
+
 .post-list-head{
     font-size: 22px;
     color: $grey-color-dark;
@@ -239,12 +268,19 @@ dl.schools-list {
 }
 
 .post-list {
+    padding: 0;
     margin-left: 0;
     list-style: none;
+    list-style-type: circle;
 
     > li {
         margin-bottom: $spacing-unit-line;
         margin-left: $spacing-unit;
+    }
+    > a {
+        display: inline;
+        padding: 0;
+        font-size: 14px;
     }
 }
 
@@ -254,8 +290,8 @@ dl.schools-list {
 }
 
 .post-link {
-    display: block;
-    font-size: 18px;
+    display: inline;
+    font-size: 14px;
 }
 
 .class-list {

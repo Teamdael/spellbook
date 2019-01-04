@@ -3,7 +3,7 @@ layout: post
 title:  "Unseen Servant"
 date:   2014-08-24
 source: PHB.284
-tags: [bard, warlock, wizard, level1, conjuration]
+tags: [bard, warlock, wizard, level1, conjuration, phb, fan]
 ---
 
 **1st-level conjuration (ritual)**

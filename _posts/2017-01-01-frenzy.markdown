@@ -1,22 +1,23 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Frenzy"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, cleric, druid, sorcerer, warlock, witch, wizard, level6, enchantment, hb, fan]
 ---
 
-**8th-level necromancy**
+**6th-level enchantment**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: 120 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a drop of fresh blood)
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 1 minute
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+With a gesture, you reduce a crowd to base instinct and violence. Choose a point you can see within range. Each creature within 20 feet of that point must make a Wisdom saving throw. On a failed save, a creature is frenzied for the duration. When a creature is frenzied, it draws a melee weapon, if it has one. If it does not have a melee weapon, the creature must use an improvised weapon or unarmed strikes for attacks.
+
+A frenzied creature must use its action at the beginning of its turn to attack a creature within its reach. It uses a melee weapon, if it has one, or an improvised weapon or unarmed strike, if it does not. If multiple targets are within the creature’s reach, it chooses its target randomly. If there is no target within the creature’s reach, it attacks itself, and automatically succeeds such an attack roll.
+
+At the end of its turn, a frenzied creature can repeat its saving throw, ending the effect on it early on a success.

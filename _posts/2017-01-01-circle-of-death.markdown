@@ -3,7 +3,7 @@ layout: post
 title: "Circle of Death"
 date: 2015-07-14
 source: PHB.221
-tags: [sorcerer, warlock, wizard, level6, necromancy]
+tags: [sorcerer, warlock, wizard, level6, necromancy, phb, fan]
 ---
 
 **6th-level necromancy**

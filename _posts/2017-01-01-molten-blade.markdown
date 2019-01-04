@@ -1,17 +1,21 @@
 ---
 layout: post
-title:  ""
+title:  "Molten Blade"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [shugenja, sorcerer, warlock, warmage, wizard, cantrip, evocation, hb, fan]
 ---
 
-**nth-level mancy**
+**Evocation cantrip**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: 5 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, M (a weapon)
 
-**Duration**: Instantaneous
+**Duration**: 1 round
+
+As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails. On a hit, the attack does damage as normal, except that the entire attack deals fire damage instead of its normal type. Additionally, flame fills the space around the target. Until the start of your next turn, any creature that enters the space or ends its turn there takes 1d8 fire damage.
+
+At 5th level, the melee attack and secondary damage each deal an additional 1d8 fire damage to their targets. Both damage rolls increase by 1d8 at 11th level (2d8/3d8), and 17th level (3d8/4d8).

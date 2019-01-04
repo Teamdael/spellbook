@@ -1,22 +1,21 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Force Buckler"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, sorcerer, warlock, warmage, wizard, cantrip, abjuration, hb, fan]
 ---
 
-**8th-level necromancy**
+**Abjuration cantrip**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a specially prepared gauntlet worth at least 5 gp)
 
-**Duration**: Instantaneous
+**Duration**: 1 minute
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+***Note: If taking this cantrip on a class other than warmage, discuss with me first.***
+
+You summon a translucent, yet visible, field of force which springs forth from the prepared gauntlet. For the duration, you can wield this field of force as a shield, and you have proficiency with it.

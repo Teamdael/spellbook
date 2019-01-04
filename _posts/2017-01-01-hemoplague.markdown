@@ -3,7 +3,7 @@ layout: post
 title:  "Hemoplague"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, wizard, level7, necromancy, hb]
+tags: [cleric, sorcerer, wizard, level7, necromancy, hb, fan]
 ---
 
 **7th-level necromancy (hemomancy)**

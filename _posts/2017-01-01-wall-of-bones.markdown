@@ -3,7 +3,7 @@ layout: post
 title:  "Wall of Bones"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, sorcerer, warlock, wizard, level4, conjuration, hb]
+tags: [bard, sorcerer, warlock, wizard, level4, conjuration, hb, fan]
 ---
 
 **4th-level conjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Transmute Rock"
 date:   2014-12-31
 source: XGTE.169
-tags: [druid, wizard, level5, evocation]
+tags: [druid, wizard, level5, evocation, xgte, fan]
 ---
 
 **5th-level transmutation**

@@ -3,7 +3,7 @@ layout: post
 title:  "Caustic Caress"
 date:   2014-08-24
 source: Homebrew
-tags: [druid, sorcerer, wizard, cantrip, evocation]
+tags: [druid, sorcerer, wizard, cantrip, evocation, hb, fan]
 ---
 
 **Evocation cantrip**

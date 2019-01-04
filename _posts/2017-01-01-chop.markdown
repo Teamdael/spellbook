@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Chop"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [cleric, druid, shugenja, sorcerer, warlock, witch, wizard, level2, evocation, fan, hb]
 ---
 
-**nth-level mancy**
+**2nd-level evocation**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: 500 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 1 minute
+
+A 75-foot-radius area of water that you specify within range begins to roil and pitch as if being affected by a strong gale. Ships in the area move at half speed as they are buffeted about by waves. Each swimming creature you choose in the area must make a Strength (Athletics) check opposed by your spell save DC when it attempts to swim. On a failed check, the creature does not move, and is instead tossed by the waves within its space.

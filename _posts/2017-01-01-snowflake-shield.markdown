@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Snowflake Shield"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [druid, shugenja, level1, abjuration, hb, fan]
 ---
 
-**nth-level mancy**
+**1st-level abjuration**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, M (a few snowflakes)
 
-**Duration**: Instantaneous
+**Duration**: 1 hour
+
+You create an intricate fractal of ice, shaping it to form a shield. This shield hovers in your space and protects you. For the duration of this spell, while you are not already wielding a shield, your AC increases by 2. This spell ends early if you take fire damage.

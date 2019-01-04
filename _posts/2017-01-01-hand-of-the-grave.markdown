@@ -3,7 +3,7 @@ layout: post
 title:  "Hand of the Grave"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, cleric, warlock, wizard, level2, necromancy, hb]
+tags: [bard, cleric, warlock, wizard, level2, necromancy, hb, fan]
 ---
 
 **2nd-level necromancy**

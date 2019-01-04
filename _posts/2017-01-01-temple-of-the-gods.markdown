@@ -3,7 +3,7 @@ layout: post
 title:  "Temple of the Gods"
 date:   2014-12-31
 source: XGTE.167
-tags: [cleric, level7, conjuration]
+tags: [cleric, level7, conjuration, xgte, fan]
 ---
 
 **7th-level conjuration**

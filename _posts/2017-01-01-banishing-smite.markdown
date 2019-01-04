@@ -3,7 +3,7 @@ layout: post
 title: "Banishing Smite"
 date: 2015-07-14
 source: PHB.216
-tags: [paladin, level5, abjuration]
+tags: [paladin, level5, abjuration, phb, fan]
 ---
 
 **5th-level abjuration**

@@ -3,7 +3,7 @@ layout: post
 title: "Grasping Vine"
 date: 2015-07-30
 source: PHB.246
-tags: [ranger, druid, level4, conjuration]
+tags: [ranger, druid, level4, conjuration, phb, fan]
 ---
 
 **4th-level conjuration**

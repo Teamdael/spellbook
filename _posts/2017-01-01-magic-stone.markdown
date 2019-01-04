@@ -3,7 +3,7 @@ layout: post
 title:  "Magic Stone"
 date:   2017-01-01
 source: XGTE.160
-tags: [druid, warlock, cantrip, transmutation]
+tags: [druid, warlock, cantrip, transmutation, xgte, fan]
 ---
 
 **Transmutation cantrip**

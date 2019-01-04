@@ -3,7 +3,7 @@ layout: post
 title:  "Rary's Rapid Replication"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [druid, wizard, level4, conjuration, hb]
+tags: [druid, wizard, level4, conjuration, hb, fan]
 ---
 
 **4th-level conjuration**

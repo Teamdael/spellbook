@@ -3,7 +3,7 @@ layout: post
 title:  "Evard's Black Tentacles"
 date:   2015-07-14
 source: PHB.238
-tags: [wizard, level4, conjuration]
+tags: [wizard, level4, conjuration, fan, phb]
 ---
 
 **4th-level conjuration**

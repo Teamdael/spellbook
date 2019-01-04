@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Transient Bulwark"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [channeler, paladin, shugenja, sorcerer, wizard, level1, abjuration, hb]
 ---
 
-**nth-level mancy**
+**1st-level abjuration (ritual)**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a pearl worth 10 gp, which the spell consumes)
 
-**Duration**: Instantaneous
+**Duration**: 8 hours
+
+The next attack made against you within the duration has a -10 penalty to hit.

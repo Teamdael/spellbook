@@ -3,7 +3,7 @@ layout: post
 title:  "Pyrotechnics"
 date:   2017-01-01
 source: XGTE.163
-tags: [bard, sorcerer, wizard, level2, transmutation]
+tags: [bard, sorcerer, wizard, level2, transmutation, xgte, fan]
 ---
 
 **2nd-level transmutation**

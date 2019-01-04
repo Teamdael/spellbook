@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Stone Bones"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [channeler, druid, paladin, ranger, shugenja, sorcerer, wizard, level2, transmutation, hb]
 ---
 
-**nth-level mancy**
+**2nd-level transmutation**
 
-**Casting Time**: ..
+**Casting Time**: 1 bonus action
 
-**Range**: .. feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: 1 round
+
+You touch a creature, granting it resistance to bludgeoning, piercing, and slashing damage until the end of its next turn.

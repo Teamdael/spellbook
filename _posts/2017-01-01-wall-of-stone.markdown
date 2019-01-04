@@ -3,7 +3,7 @@ layout: post
 title: "Wall of Stone"
 date: 2015-07-30
 source: PHB.287
-tags: [druid, sorcerer, wizard, level5, evocation]
+tags: [druid, sorcerer, wizard, level5, evocation, phb, fan]
 ---
 
 **5th-level evocation**

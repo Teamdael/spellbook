@@ -3,7 +3,7 @@ layout: post
 title:  "Control Weather"
 date:   2015-01-10
 source: PHB.228
-tags:   [cleric, druid, wizard, level8, transmutation]
+tags:   [cleric, druid, wizard, level8, transmutation, phb, fan]
 ---
 
 **8th-level transmutation**

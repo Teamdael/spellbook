@@ -3,7 +3,7 @@ layout: post
 title:  "Melf's Minute Meteors"
 date:   2015-11-20
 source: XGTE.161
-tags: [sorcerer, wizard, level3, evocation]
+tags: [sorcerer, wizard, level3, evocation, xgte, fan]
 ---
 
 **3rd-level evocation**

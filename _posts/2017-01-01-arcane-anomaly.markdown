@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Arcane Anomaly"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [channeler, sorcerer, wizard, level1, abjuration, hb, fan]
 ---
 
-**nth-level mancy**
+**1st-level abjuration**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Self (30-foot radius)
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a broken mirror)
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 1 minute
+
+You spread cracks in the magical energy that suffuses the multiverse. For the duration, whenever a spell is cast within range, roll a d6. On a 1, the spell casting fails, expending a spell slot as normal, but not consuming material components.

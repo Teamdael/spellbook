@@ -3,7 +3,7 @@ layout: post
 title: "Druid's Grove"
 date: 2017-01-01
 source: XGTE.154
-tags: [druid, level6, abjuration]
+tags: [druid, level6, abjuration, xgte, fan]
 ---
 
 **6th-level abjuration**

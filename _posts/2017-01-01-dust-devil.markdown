@@ -3,7 +3,7 @@ layout: post
 title:  "Dust Devil"
 date:   2015-11-13
 source: XGTE.154
-tags: [druid, sorcerer, wizard, level2, conjuration]
+tags: [druid, sorcerer, wizard, level2, conjuration, xgte, fan]
 ---
 
 **2nd-level conjuration**

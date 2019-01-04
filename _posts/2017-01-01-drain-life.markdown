@@ -3,7 +3,7 @@ layout: post
 title:  "Drain Life"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, wizard, level9, necromancy, hb]
+tags: [cleric, sorcerer, wizard, level9, necromancy, hb, fan]
 ---
 
 **9th-level necromancy (hemomancy)**

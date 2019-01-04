@@ -3,7 +3,7 @@ layout: post
 title:  "Mental Prison"
 date:   2017-01-01
 source: XGTE.161
-tags: [sorcerer, wizard, level6, illusion]
+tags: [sorcerer, wizard, level6, illusion, xgte, fan]
 ---
 
 **6th-level illusion**

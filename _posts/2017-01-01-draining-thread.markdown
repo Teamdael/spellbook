@@ -3,7 +3,7 @@ layout: post
 title:  "Draining Thread"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, wizard, level4, necromancy, hb]
+tags: [cleric, sorcerer, wizard, level4, necromancy, hb, fan]
 ---
 
 **4th-level necromancy (hemomancy)**

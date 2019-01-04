@@ -3,7 +3,7 @@ layout: post
 title:  "Warding Wind"
 date:   2015-08-31
 source: XGTE.170
-tags: [bard, druid, sorcerer, level2, evocation]
+tags: [bard, druid, sorcerer, level2, evocation, xgte, fan]
 ---
 
 **2nd level evocation**

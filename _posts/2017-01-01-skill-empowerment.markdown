@@ -3,7 +3,7 @@ layout: post
 title:  "Skill Empowerment"
 date:   2017-01-01
 source: XGTE.165
-tags: [bard, sorcerer, wizard, level5, transmutation]
+tags: [bard, sorcerer, wizard, level5, transmutation, xgte, fan]
 ---
 
 **5th-level transmutation**

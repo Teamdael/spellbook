@@ -3,7 +3,7 @@ layout: post
 title:  "Immolation"
 date:   2017-01-01
 source: XGTE.158
-tags: [sorcerer, wizard, level5, evocation]
+tags: [sorcerer, wizard, level5, evocation, xgte, fan]
 ---
 
 **5th-level evocation**

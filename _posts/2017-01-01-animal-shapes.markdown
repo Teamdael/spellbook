@@ -3,7 +3,7 @@ layout: post
 title:  "Animal Shapes"
 date:   2015-01-09
 source: PHB.212
-tags: [druid, level8, transmutation]
+tags: [druid, level8, transmutation, phb, fan]
 ---
 
 **8th-level transmutation**

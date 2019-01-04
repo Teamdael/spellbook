@@ -1,17 +1,21 @@
 ---
 layout: post
-title:  ""
+title:  "Liveoak"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [druid, witch, level9, transmutation, hb, fan]
 ---
 
-**nth-level mancy**
+**9th-level transmutation**
 
-**Casting Time**: ..
+**Casting Time**: 10 minutes
 
-**Range**: .. feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (an amber statuette of a treant worth at least 5,000 gp, which the spell consumes)
 
 **Duration**: Instantaneous
+
+Choose a single Huge or larger oak tree within range that is alive and healthy. The target becomes a *treant* (the DM has game statistics for it).
+
+The treant is charmed by you for 30 days, or until you or your companions do anything harmful to it, or until you cast this spell again. When the charmed condition ends, the treant chooses whether to remain friendly to you, based on how you treated it while it was charmed.

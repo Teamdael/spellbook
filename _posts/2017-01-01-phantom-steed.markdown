@@ -3,7 +3,7 @@ layout: post
 title:  "Phantom Steed"
 date:   2015-01-02
 source: PHB.265
-tags: [wizard,level3, illusion]
+tags: [wizard, level3, illusion, phb, fan]
 ---
 
 **3rd-level illusion (ritual)**

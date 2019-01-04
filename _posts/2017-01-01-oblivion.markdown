@@ -1,17 +1,21 @@
 ---
 layout: post
-title:  ""
+title:  "Oblivion"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [channeler, sorcerer, witch, wizard, level5, conjuration, hb, fan]
 ---
 
-**nth-level mancy**
+**5th-level conjuration**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Self (40-foot radius)
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
 **Duration**: Instantaneous
+
+You open an instantaneous portal to the heart of R'lyeh, allowing the Dead Mists to wreak havoc. Each creature within a 40-foot radius area around you (including yourself) must make a Dexterity saving throw. A target takes 6d8 necrotic and 6d8 bludgeoning damage on a failed, or half as much on a successful one.
+
+When you cast this spell, you can choose to take 10 points of necrotic damage, which ignores both damage resistance and damage immunity. If you do so, you can choose a number of creatures in the area equal to your spellcasting modifier. The chosen creatures automatically succeed on the saving throw against this spell.

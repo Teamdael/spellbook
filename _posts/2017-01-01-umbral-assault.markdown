@@ -3,7 +3,7 @@ layout: post
 title:  "Umbral Assault"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, warlock, wizard, level7, transmutation, hb]
+tags: [bard, warlock, wizard, level7, transmutation, hb, fan]
 ---
 
 **7th-level transmutation**

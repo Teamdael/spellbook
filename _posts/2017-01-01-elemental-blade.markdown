@@ -1,22 +1,21 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Elemental Blade"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, cleric, shugenja, sorcerer, wizard, level1, evocation, hb, fan]
 ---
 
-**8th-level necromancy**
+**1st-level evocation**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 bonus action
 
-**Range**: 150 feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: 1 minute
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You evoke a blade of destructive energy in your hand. This blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade it disappears, but you can evoke it again as a bonus action. The damage type of the spell is acid, cold, fire, lightning, or poison damage, chosen when you cast the spell. You can use your action to make a melee spell attack with the blade. The target takes 2d6 damage on a hit. The blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+**At Higher Levels.** When you cast this spell at 2nd level or higher, the damage increases by 1d6 for every level of spell slot above 1st.

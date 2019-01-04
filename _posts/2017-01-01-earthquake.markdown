@@ -3,7 +3,7 @@ layout: post
 title:  "Earthquake"
 date:   2015-01-10
 source: PHB.236
-tags:   [cleric, druid, sorcerer, level8, evocation]
+tags:   [cleric, druid, sorcerer, level8, evocation, phb, fan]
 ---
 
 **8th-level evocation**

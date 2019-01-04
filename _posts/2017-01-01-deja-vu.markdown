@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Déjà Vu"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [channeler, shugenja, sorcerer, warlock, witch, wizard, level1, chronomancy, hb, fan]
 ---
 
-**nth-level mancy**
+**1st-level chronomancy**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: 60 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a small silver mirror)
 
 **Duration**: Instantaneous
+
+You briefly rewind the thoughts a creature of your choice that you can see within range. The target must succeed on a Wisdom saving throw. A creature that took no actions on its previous turn automatically succeeds this saving throw. On a failed save, the target on its next turn must repeat the actions it performed in its previous turn. It can use its reaction as normal; it is not forced to repeat a reaction it made previously. If the situation has changed in such a way that the subject can’t take the same actions again, the subject stands still and takes no actions or bonus actions for 1 round.

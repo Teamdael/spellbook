@@ -3,7 +3,7 @@ layout: post
 title: "Moonbeam"
 date: 2015-07-30
 source: PHB.261
-tags: [druid, level2, evocation]
+tags: [druid, level2, evocation, phb, fan]
 ---
 
 **2nd-level evocation**

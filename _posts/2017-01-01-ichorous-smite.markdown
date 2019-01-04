@@ -3,7 +3,7 @@ layout: post
 title:  "Ichorous Smite"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [paladin, level1, necromancy, hb]
+tags: [paladin, level1, necromancy, hb, fan]
 ---
 
 **1st-level necromancy (hemomancy)**

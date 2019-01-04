@@ -1,22 +1,19 @@
----
+﻿---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Technical Difficulties"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [sorcerer, wizard, level1, transmutation, hb, fut]
 ---
 
-**8th-level necromancy**
+**1st-level transmutation [futuristic]**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 bonus action
 
-**Range**: 150 feet
+**Range**: 60 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a bit of frayed wire)
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 1 minute
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+This spell causes lights to flicker, blasters to malfunction, and arcane terminals to crash. Choose a piece of magical technology within range. The device malfunctions in unpredictable ways, such that it is unusable for the duration.

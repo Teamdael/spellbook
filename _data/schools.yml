@@ -1,5 +1,7 @@
 - name: Abjuration
   tag: abjuration
+- name: Chronomancy
+  tag: chronomancy
 - name: Conjuration
   tag: conjuration
 - name: Divination

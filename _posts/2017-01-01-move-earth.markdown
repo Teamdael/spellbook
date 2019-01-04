@@ -3,7 +3,7 @@ layout: post
 title: "Move Earth"
 date: 2015-07-30
 source: PHB.263
-tags: [druid, sorcerer, wizard, level6, transmutation]
+tags: [druid, sorcerer, wizard, level6, transmutation, phb, fan]
 ---
 
 **6th-level transmutation**

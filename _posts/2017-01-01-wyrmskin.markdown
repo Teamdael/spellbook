@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  ""
+title:  "Wyrmskin"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [druid, sorcerer, level3, transmutation, hb]
 ---
 
-**nth-level mancy**
+**3rd-level transmutation**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, M (a dragon scale)
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 1 hour
+
+This spell transforms you into a dragon of the same color as the scale provided for the material component. The transformation lasts for the duration, or until you drop to 0 hit points or die. Your draconic form is a wyrmling of the dragon whose scale you possess. Your game statistics are replaced by the wyrmling's statistics, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You lose the ability to cast spells in this form and the ability to use any class features that your draconic form could not feasibly perform. Your gear melds into the new form. You can't activate, use, wield, or otherwise benefit from any of your equipment.
+At Higher Levels. Casting this spell using a 6th or 7th level spell slot allows you to transform into the young dragon of the dragon whose scale you provided as the material component for this casting. Casting this spell using an 8th or 9th level spell slot allows you to transform into the adult dragon of the dragon whose scale you provided as the material component for this casting.

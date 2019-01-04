@@ -3,7 +3,7 @@ layout: post
 title:  "Ice Knife"
 date:   2017-01-01
 source: XGTE.157
-tags: [druid, sorcerer, wizard, level1, conjuration]
+tags: [druid, sorcerer, wizard, level1, conjuration, xgte, fan]
 ---
 
 **1st-level conjuration**

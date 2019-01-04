@@ -3,7 +3,7 @@ layout: post
 title:  "Beast Bond"
 date:   2017-01-01
 source: XGTE.150
-tags: [druid, ranger, level1, divination]
+tags: [druid, ranger, level1, divination, xgte, fan]
 ---
 
 **1st-level divination**

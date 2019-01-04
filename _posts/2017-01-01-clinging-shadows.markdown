@@ -3,7 +3,7 @@ layout: post
 title:  "Clinging Shadows"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, warlock, wizard, level2, transmutation, hb]
+tags: [bard, warlock, wizard, level2, transmutation, hb, fan]
 ---
 
 **2nd-level transmutation**

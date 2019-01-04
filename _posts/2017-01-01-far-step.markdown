@@ -3,7 +3,7 @@ layout: post
 title: "Far Step"
 date: 2017-01-01
 source: XGTE.155
-tags: [sorcerer, warlock, wizard, level5, conjuration]
+tags: [sorcerer, warlock, wizard, level5, conjuration, xgte, fan]
 ---
 
 **5th-level conjuration**

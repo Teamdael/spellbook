@@ -3,7 +3,7 @@ layout: post
 title:  "Conjure Barrage"
 date:   2015-01-01
 source: PHB.225
-tags: [ranger, level3, conjuration]
+tags: [ranger, level3, conjuration, phb, fan]
 ---
 
 **3rd-level conjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Tiny Servant"
 date:   2014-12-31
 source: XGTE.168
-tags: [wizard, level3, transmutation]
+tags: [wizard, level3, transmutation, xgte, fan]
 ---
 
 **3rd-level transmutation**

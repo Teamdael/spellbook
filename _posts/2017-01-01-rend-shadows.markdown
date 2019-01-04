@@ -3,7 +3,7 @@ layout: post
 title:  "Rend Shadows"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [wizard, level4, necromancy, hb]
+tags: [wizard, level4, necromancy, hb, fan]
 ---
 
 **4th-level necromancy**

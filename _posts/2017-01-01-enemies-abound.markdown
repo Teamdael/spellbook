@@ -3,7 +3,7 @@ layout: post
 title: "Enemies Abound"
 date: 2017-01-01
 source: XGTE.155
-tags: [bard, sorcerer, warlock, wizard, level3, enchantment]
+tags: [bard, sorcerer, warlock, wizard, level3, enchantment, xgte, fan]
 ---
 
 **3rd-level enchantment**

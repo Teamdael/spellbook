@@ -3,7 +3,7 @@ layout: post
 title:  "Tidal Wave"
 date:   2015-11-19
 source: XGTE.168
-tags: [druid, wizard, level3, conjuration]
+tags: [druid, wizard, level3, conjuration, xgte, fan]
 ---
 
 **3rd-level conjuration**

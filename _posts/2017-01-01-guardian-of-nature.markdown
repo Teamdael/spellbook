@@ -3,7 +3,7 @@ layout: post
 title: "Guardian of Nature"
 date: 2017-01-01
 source: XGTE.157
-tags: [druid, ranger, level4, transmutation]
+tags: [druid, ranger, level4, transmutation, xgte, fan]
 ---
 
 **4th-level transmutation**

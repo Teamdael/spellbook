@@ -1,22 +1,21 @@
----
+﻿---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Zone of Altered Time"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, cleric, shugenja, sorcerer, witch, wizard, level9, chronomancy, hb, fan]
 ---
 
-**8th-level necromancy**
+**9th-level chronomancy**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: 60 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a pair of hourglasses, worth at least 100gp each)
 
-**Duration**: Instantaneous
+**Duration**: 1 hour
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You create a transparent magical zone where time flows differently in a 50-foot cube centered on a point of your choice within range. No material, spell or effect can pass into or out of the zone unless it travels through another plane of existence to do so (such as by using misty step, etherealness, or dimension door.) Choose one of the following effects for the zone.
+Dilated Time. Time passes slower inside the zone, so that any creatures inside it experience 10 minutes for every hour that passes outside.
+Hyperbolic Time. Time passes faster inside the zone, so that any creatures inside it experience 24 hours for every hour that passes outside.

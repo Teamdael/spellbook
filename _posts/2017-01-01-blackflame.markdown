@@ -3,7 +3,7 @@ layout: post
 title:  "Blackflame"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, cleric, sorcerer, warlock, wizard, level1, transmutation, hb]
+tags: [bard, cleric, sorcerer, warlock, wizard, level1, transmutation, hb, fan]
 ---
 
 **1st-level transmutation**

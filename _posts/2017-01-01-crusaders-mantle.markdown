@@ -3,7 +3,7 @@ layout: post
 title:  "Crusader's Mantle"
 date:   2015-01-01
 source: PHB.230
-tags: [paladin, level3, evocation]
+tags: [paladin, level3, evocation, phb, fan]
 ---
 
 **3rd-level evocation**
@@ -12,7 +12,7 @@ tags: [paladin, level3, evocation]
 
 **Range**: Self
 
-**Components**: V 
+**Components**: V
 
 **Duration**: Concentration, up to 1 minute
 

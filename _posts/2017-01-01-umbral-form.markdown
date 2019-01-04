@@ -3,7 +3,7 @@ layout: post
 title:  "Umbral Form"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [sorcerer, wizard, level3, transmutation, hb]
+tags: [sorcerer, wizard, level3, transmutation, hb, fan]
 ---
 
 **3rd-level transmutation**

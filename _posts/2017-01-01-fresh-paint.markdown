@@ -3,7 +3,7 @@ layout: post
 title:  "Fresh Paint"
 date:   2014-08-24
 source: Homebrew
-tags: [bard, cantrip, conjuration, hb]
+tags: [bard, cantrip, conjuration, hb, fan]
 ---
 
 **Conjuration cantrip**

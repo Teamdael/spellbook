@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Frostmail"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [channeler, druid, shugenja, level3, abjuration, hb, fan]
 ---
 
-**nth-level mancy**
+**3rd-level abjuration**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a drop of water or a piece of ice)
 
-**Duration**: Instantaneous
+**Duration**: 8 hours
+
+You touch a willing creature who isn’t wearing armor, and a chain shirt, made a glimmering ice, appears on their body. The target’s base AC becomes 14 + its Dexterity modifier. Additionally, whenever a creature hits the target of this spell with a melee attack, the attacker takes 1d4 cold damage. The spell ends if the target dons armor or if you dismiss the spell as an action.

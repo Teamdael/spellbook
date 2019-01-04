@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  ""
+title:  "Water Jet"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [shugenja, level2, evocation, hb, fan]
 ---
 
-**nth-level mancy**
+**2nd-level evocation**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Self (30-foot line)
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a smooth river stone)
 
 **Duration**: Instantaneous
+
+When you cast this spell, a 30-foot long and 5-foot wide jet of water blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
+At Higher Levels. When you cast this spell using spell slot of 3rd level or higher, the damage increases by 1d6 damage for every slot level above 2nd.

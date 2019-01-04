@@ -3,7 +3,7 @@ layout: post
 title:  "Storm of Vengeance"
 date:   2015-01-10
 source: PHB.279
-tags:   [druid, level9, conjuration]
+tags:   [druid, level9, conjuration, phb, fan]
 ---
 
 **9th-level conjuration**

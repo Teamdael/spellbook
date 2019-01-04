@@ -3,7 +3,7 @@ layout: post
 title:  "Blood Seal"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, wizard, level2, necromancy, hb]
+tags: [cleric, sorcerer, wizard, level2, necromancy, hb, fan]
 ---
 
 **2nd-level necromancy (hemomancy) (ritual)**

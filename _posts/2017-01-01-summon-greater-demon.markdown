@@ -3,7 +3,7 @@ layout: post
 title: "Summon Greater Demon"
 date: 2017-01-01
 source: XGTE.166
-tags: [warlock, wizard, level4, conjuration]
+tags: [warlock, wizard, level4, conjuration, xgte, fan]
 ---
 
 **4th-level conjuration**

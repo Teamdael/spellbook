@@ -3,7 +3,7 @@ layout: post
 title:  "Storm Sphere"
 date:   2015-11-20
 source: XGTE.166
-tags: [sorcerer, wizard, level4, evocation]
+tags: [sorcerer, wizard, level4, evocation, xgte, fan]
 ---
 
 **4th-level evocation**

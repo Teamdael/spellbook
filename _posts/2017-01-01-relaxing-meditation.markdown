@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Relaxing Meditation"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [cleric, druid, witch, cantrip, enchantment, hb, fan]
 ---
 
-**nth-level mancy**
+**Enchantment cantrip**
 
-**Casting Time**: ..
+**Casting Time**: 10 minutes
 
-**Range**: .. feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: S
 
-**Duration**: Instantaneous
+**Duration**: 1 hour
+
+You perform a calming ritual that clears the head and makes it easier to focus on what you're doing. For the duration, whenever you are forced to make a saving throw to maintain your concentration, you have advantage on the roll.

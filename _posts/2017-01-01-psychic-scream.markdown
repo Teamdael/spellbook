@@ -3,7 +3,7 @@ layout: post
 title:  "Psychic Scream"
 date:   2017-01-01
 source: XGTE.163
-tags:   [sorcerer, warlock, wizard, level9, enchantment]
+tags:   [sorcerer, warlock, wizard, level9, enchantment, xgte, fan]
 ---
 
 **9th-level enchantment**

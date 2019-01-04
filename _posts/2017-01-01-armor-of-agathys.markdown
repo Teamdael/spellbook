@@ -3,7 +3,7 @@ layout: post
 title:  "Armor of Agathys"
 date:   2014-08-24
 source: PHB.215
-tags: [warlock, level1, abjuration]
+tags: [warlock, level1, abjuration, phb, fan]
 ---
 
 **1st-level abjuration**

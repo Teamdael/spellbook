@@ -3,7 +3,7 @@ layout: post
 title:  "Sickening Radiance"
 date:   2017-01-01
 source: XGTE.164
-tags: [druid, sorcerer, wizard, level4, evocation]
+tags: [druid, sorcerer, wizard, level4, evocation, xgte, fan]
 ---
 
 **3rd-level conjuration**

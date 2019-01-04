@@ -3,7 +3,7 @@ layout: post
 title:  "Catnap"
 date:   2017-01-01
 source: XGTE.151
-tags: [sorcerer, wizard, level3, enchantment]
+tags: [sorcerer, wizard, level3, enchantment, xgte, fan]
 ---
 
 **3rd-level enchantment**

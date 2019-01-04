@@ -3,7 +3,7 @@ layout: post
 title:  "Life Thread"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [sorcerer, warlock, wizard, cantrip, necromancy, hb]
+tags: [sorcerer, warlock, wizard, cantrip, necromancy, hb, fan]
 ---
 
 **Necromancy cantrip**

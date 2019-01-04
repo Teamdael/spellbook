@@ -3,7 +3,7 @@ layout: post
 title: "Create Undead"
 date: 2015-07-14
 source: PHB.229
-tags: [cleric, warlock, wizard, level6, necromancy]
+tags: [cleric, warlock, wizard, level6, necromancy, phb, fan]
 ---
 
 **6th-level necromancy**

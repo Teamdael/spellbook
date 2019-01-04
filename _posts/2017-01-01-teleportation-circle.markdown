@@ -3,7 +3,7 @@ layout: post
 title: "Teleportation Circle"
 date: 2015-07-30
 source: PHB.281
-tags: [bard, sorcerer, wizard, level5, conjuration]
+tags: [bard, sorcerer, wizard, level5, conjuration, phb, fan]
 ---
 
 **5th-level conjuration**

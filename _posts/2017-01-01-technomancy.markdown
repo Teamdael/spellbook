@@ -1,22 +1,19 @@
----
+﻿---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Technomancy"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, shugenja, sorcerer, warlock, warmage, witch, wizard, cantrip, transmutation, hb, fut]
 ---
 
-**8th-level necromancy**
+**Transmutation cantrip [futuristic]**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: 60 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: S
 
 **Duration**: Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+With a complex input gesture, you can manipulate a technological device you can see within range. You can use this ability to perform any basic operation on the device, including, but not limited to, pressing an external button, entering a dozen keystrokes of data, activating an authorized operation (such as opening an unlocked door), dimming or brightening a screen, or muting a device that has a speaker. You can’t disconnect or reconnect wires, or perform an unauthorized operation, such as crashing a device or changing its password without knowing the original.

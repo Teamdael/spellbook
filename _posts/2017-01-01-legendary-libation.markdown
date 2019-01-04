@@ -1,22 +1,21 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Legendary Libation"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, cantrip, conjuration, hb, fan]
 ---
 
-**8th-level necromancy**
+**Conjuration cantrip**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 bonus action
 
-**Range**: 150 feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, M (a container, such as a mug, tankard, or flask, which is filled with liquid that is purified by the spell)
 
 **Duration**: Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+***NOTE:*** Unsure if I should allow this spell, as it is a cantrip that essentially takes the place of something like *create water*.
+
+You speak a word of power and your container fills with a drink of your choosing, which can be imbibed as an action. The drink is delicious and satisfies the drinker's thirst for the next 24 hours. Furthermore, the drinker has advantage on saving throws against becoming frightened for one hour after consuming this libation. If the drink is not consumed within one hour of being conjured, it loses its magic and turns into mundane, flavorless water. A creature cannot benefit from more than one legendary libation in any given 24-hour period.

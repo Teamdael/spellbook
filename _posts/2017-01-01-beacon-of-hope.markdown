@@ -3,7 +3,7 @@ layout: post
 title:  "Beacon of Hope"
 date:   2015-01-01
 source: PHB.217
-tags: [cleric, level3, abjuration]
+tags: [cleric, level3, abjuration, phb, fan]
 ---
 
 **3rd-level abjuration**

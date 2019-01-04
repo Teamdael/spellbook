@@ -3,7 +3,7 @@ layout: post
 title:  "Gust"
 date:   2017-01-01
 source: XGTE.157
-tags: [druid, sorcerer, wizard, cantrip, transmutation]
+tags: [druid, sorcerer, wizard, cantrip, transmutation, xgte, fan]
 ---
 
 **Transmutation cantrip**

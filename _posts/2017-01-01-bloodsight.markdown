@@ -3,7 +3,7 @@ layout: post
 title:  "Bloodsight"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [sorcerer, wizard, level3, necromancy, hb]
+tags: [sorcerer, wizard, level3, necromancy, hb, fan]
 ---
 
 **3rd-level necromancy (hemomancy)**

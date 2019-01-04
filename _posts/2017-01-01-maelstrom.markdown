@@ -3,7 +3,7 @@ layout: post
 title:  "Maelstrom"
 date:   2017-01-01
 source: XGTE.160
-tags: [druid, level5, evocation]
+tags: [druid, level5, evocation, xgte, fan]
 ---
 
 **5th-level evocation**

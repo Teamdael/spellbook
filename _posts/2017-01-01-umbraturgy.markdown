@@ -3,7 +3,7 @@ layout: post
 title:  "Umbraturgy"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, cleric, sorcerer, warlock, wizard, cantrip, transmutation, hb]
+tags: [bard, cleric, sorcerer, warlock, wizard, cantrip, transmutation, hb, fan]
 ---
 
 **Transmutation cantrip**

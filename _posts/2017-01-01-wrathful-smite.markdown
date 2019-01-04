@@ -3,7 +3,7 @@ layout: post
 title:  "Wrathful Smite"
 date:   2014-08-24
 source: PHB.289
-tags: [paladin, level1, evocation]
+tags: [paladin, level1, evocation, phb, fan]
 ---
 
 **1st-level evocation**

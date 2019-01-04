@@ -3,7 +3,7 @@ layout: post
 title:  "Absorb Elements"
 date:   2017-01-01
 source: XGTE.150
-tags: [druid, ranger, wizard, level1, abjuration]
+tags: [druid, ranger, wizard, level1, abjuration, fan, xgte]
 ---
 
 **1st-level abjuration**

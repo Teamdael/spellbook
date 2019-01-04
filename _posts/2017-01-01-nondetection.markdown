@@ -3,7 +3,7 @@ layout: post
 title:  "Nondetection"
 date:   2015-01-02
 source: PHB.263
-tags: [bard, cleric, ranger, level3, abjuration]
+tags: [bard, cleric, ranger, level3, abjuration, phb, fan]
 ---
 
 **3rd-level abjuration**

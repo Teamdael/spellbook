@@ -3,7 +3,7 @@ layout: post
 title:  "Maim"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, level3, necromancy, hb]
+tags: [cleric, level3, necromancy, hb, fan]
 ---
 
 **3rd-level necromancy**

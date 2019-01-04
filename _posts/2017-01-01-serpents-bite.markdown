@@ -3,7 +3,7 @@ layout: post
 title:  "Serpent's Bite"
 date:   2014-08-24
 source: Homebrew
-tags: [sorcerer, warlock, wizard, level3, transmutation, hb]
+tags: [sorcerer, warlock, wizard, level3, transmutation, hb, fan]
 ---
 
 **3rd-level transmutation**

@@ -3,7 +3,7 @@ layout: post
 title:  "Primordial Ward"
 date:   2015-11-19
 source: XGTE.163
-tags: [druid, level6, abjuration]
+tags: [druid, level6, abjuration, xgte, fan]
 ---
 
 **6th-level abjuration**

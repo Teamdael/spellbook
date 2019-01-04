@@ -3,7 +3,7 @@ layout: post
 title: "Negative Energy Flood"
 date: 2017-01-01
 source: XGTE.163
-tags: [warlock, wizard, level5, necromancy]
+tags: [warlock, wizard, level5, necromancy, xgte, fan]
 ---
 
 **5th-level necromancy**

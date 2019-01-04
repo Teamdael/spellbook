@@ -3,7 +3,7 @@ layout: post
 title: "Wall of Ice"
 date: 2015-07-30
 source: PHB.285
-tags: [wizard, level6, evocation]
+tags: [wizard, level6, evocation, phb, fan]
 ---
 
 **6th-level evocation**

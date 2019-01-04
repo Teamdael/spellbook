@@ -3,7 +3,7 @@ layout: post
 title:  "Earth Tremor"
 date:   2015-08-31
 source: XGTE.155
-tags: [bard, druid, sorcerer, wizard, level1, evocation]
+tags: [bard, druid, sorcerer, wizard, level1, evocation, xgte, fan]
 ---
 
 **1st-level evocation**

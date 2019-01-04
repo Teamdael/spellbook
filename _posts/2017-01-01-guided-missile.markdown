@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Guided Missiles"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, channeler, ranger, shugenja, sorcerer, wizard, level1, transmutation, hb, fan]
 ---
 
-**8th-level necromancy**
+**1st-level transmutation**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 bonus action
 
-**Range**: 150 feet
+**Range**: Touch
 
 **Components**: V, S, M (a bit of sponge)
 
 **Duration**: Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You have advantage on ranged weapon attack rolls you make until the start of your next turn.

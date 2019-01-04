@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Chill Touch"
+title:  "Chill Touch (a.k.a. Lich Slap)"
 date:   2014-08-24
 source: PHB.221
-tags: [sorcerer, warlock, wizard, cantrip, necromancy]
+tags: [sorcerer, warlock, wizard, cantrip, necromancy, phb, fan]
 ---
 
 **Necromancy cantrip**

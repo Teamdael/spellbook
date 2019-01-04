@@ -3,7 +3,7 @@ layout: post
 title:  "Dark Empowerment"
 date:   2014-08-24
 source: Homebrew
-tags: [warlock, wizard, level4, transmutation, hb]
+tags: [warlock, wizard, level4, transmutation, hb, fan]
 ---
 
 **4th-level transmutation**

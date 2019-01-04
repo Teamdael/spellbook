@@ -3,7 +3,7 @@ layout: post
 title:  "Shadow Stride"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, druid, ranger, sorcerer, warlock, wizard, level5, conjuration, hb]
+tags: [bard, druid, ranger, sorcerer, warlock, wizard, level5, conjuration, hb, fan]
 ---
 
 **5th-level conjuration**

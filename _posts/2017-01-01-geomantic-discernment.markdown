@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Geomantic Discernment"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [druid, ranger, shugenja, wizard, level1, divination, hb, fan]
 ---
 
-**nth-level mancy**
+**1st-level divination**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Self (300-foot radius)
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 10 minutes
+
+You gain the ability to sense valuable minerals in a 300-foot radius around you. A glowing aura that only you can see appears around any valuable gems, ores, native elements, or other resources in that radius for the spell’s duration. You can see this aura through any amount of nonmagical material.

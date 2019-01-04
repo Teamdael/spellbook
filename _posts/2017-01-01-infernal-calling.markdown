@@ -3,7 +3,7 @@ layout: post
 title:  "Infernal Calling"
 date:   2017-01-01
 source: XGTE.158
-tags: [warlock, wizard, level5, conjuration]
+tags: [warlock, wizard, level5, conjuration, xgte, fan]
 ---
 
 **5th-level conjuration**

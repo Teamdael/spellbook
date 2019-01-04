@@ -3,7 +3,7 @@ layout: post
 title:  "Dome of Night"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, druid, ranger, warlock, wizard, level2, transmutation, hb]
+tags: [bard, druid, ranger, warlock, wizard, level2, transmutation, hb, fan]
 ---
 
 **2nd-level transmutation (ritual)**

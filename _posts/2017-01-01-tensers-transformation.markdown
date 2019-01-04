@@ -3,7 +3,7 @@ layout: post
 title: "Tenser's Transformation"
 date: 2015-07-30
 source: XGTE.168
-tags: [wizard, level6, transmutation]
+tags: [wizard, level6, transmutation, xgte, fan]
 ---
 
 **6th-level transmutation**

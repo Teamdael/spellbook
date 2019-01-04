@@ -3,7 +3,7 @@ layout: post
 title: "Misty Step"
 date: 2015-07-30
 source: PHB.260
-tags: [sorcerer, warlock, wizard, level2, conjuration]
+tags: [sorcerer, warlock, wizard, level2, conjuration, phb, fan]
 ---
 
 **2nd-level conjuration**

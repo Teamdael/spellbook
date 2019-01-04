@@ -3,7 +3,7 @@ layout: post
 title:  "Illusory Dragon"
 date:   2017-01-01
 source: XGTE.157
-tags: [wizard, level8, illusion]
+tags: [wizard, level8, illusion, xgte, fan]
 ---
 
 **8th-level illusion**

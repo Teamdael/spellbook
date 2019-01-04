@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Soft Focus"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [cleric, witch, cantrip, illusion, hb, fan]
 ---
 
-**nth-level mancy**
+**Illusion cantrip**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: 1 minute
+
+When you cast this spell, everything you see becomes slightly hazy and out-of-focus, which makes the world seem comforting and safe. You have advantage on Intelligence, Wisdom, and Charisma saving throws for the duration. This spell ends early if you take damage.

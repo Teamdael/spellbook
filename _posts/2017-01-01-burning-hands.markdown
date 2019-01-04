@@ -3,7 +3,7 @@ layout: post
 title:  "Burning Hands"
 date:   2014-08-24
 source: PHB.220
-tags: [sorcerer, wizard, level1, evocation]
+tags: [sorcerer, wizard, level1, evocation, phb, fan]
 ---
 
 **1st-level evocation**

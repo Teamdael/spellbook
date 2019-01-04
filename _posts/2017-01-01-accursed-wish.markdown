@@ -3,7 +3,7 @@ layout: post
 title:  "Accursed Wish"
 date:   2014-08-24
 source: Homebrew
-tags: [warlock, level2, conjuration, hb]
+tags: [warlock, level2, conjuration, hb, fan]
 ---
 
 **2nd-level conjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Resonance"
 date:   2014-08-24
 source: Homebrew
-tags: [bard, level3, enchantment, hb]
+tags: [bard, level3, enchantment, hb, fan]
 ---
 
 **3rd-level enchantment**

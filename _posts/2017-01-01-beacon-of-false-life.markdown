@@ -3,7 +3,7 @@ layout: post
 title:  "Beacon of False Life"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, warlock, wizard, level3, necromancy, hb]
+tags: [cleric, sorcerer, warlock, wizard, level3, necromancy, hb, fan]
 ---
 
 **3rd-level necromancy**

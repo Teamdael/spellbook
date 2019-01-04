@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Concealed shot"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, shugenja, warmage, wizard, cantrip, illusion, hb, ren]
 ---
 
-**8th-level necromancy**
+**Illusion cantrip**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: S, M (a firearm)
 
 **Duration**: Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+As part of the action used to cast this spell, you must make an attack with a firearm, otherwise the spell fails. The spell then masks any audible or visible output from the weapon, making it impossible to see or hear where the shot came from. This spell only conceals the first shot you make; any additional shots are not concealed.

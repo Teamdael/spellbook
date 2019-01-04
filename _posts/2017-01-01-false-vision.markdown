@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "False Vision"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, ranger, wizard, level4, illusion, hb, fan]
 ---
 
-**8th-level necromancy**
+**4th-level illusion**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a pinch each of diamond, ruby, emerald and sapphire dust, worth a total of 100 gp, which the spell consumes)
 
-**Duration**: Instantaneous
+**Duration**: 8 hours
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+For the duration, you hide a target that you touch from divination magic. The target can be a willing creature, a place, or an object no larger than 10 feet in any dimension.  If the target is targeted by any divination magic or perceived through a scrying spell’s sensors, you are able to present the diviner with false information of your choice, as long as you are conscious at the time of the divination attempt. The target could appear to be in different circumstances, in one or more false locations, or completely undetectable as you desire.

@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Cryptogram"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, shugenja, sorcerer, warlock, warmage, witch, wizard, cantrip, conjuration, hb, fan]
 ---
 
-**8th-level necromancy**
+**Conjuration cantrip**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: Unlimited
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a small written message)
 
 **Duration**: Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You send a small scroll with a short message to a creature of your choice. The recipient must be a creature known to you and also be on the same plane of existence as you. This scroll will hover in the air in front of the recipient, deposit into their pocket, or appear sitting on something nearby. The scroll's message can be up to 8 characters long (spaces count as characters.) You can send only one scroll to a single target each day.

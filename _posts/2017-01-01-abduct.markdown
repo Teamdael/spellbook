@@ -2,8 +2,8 @@
 layout: post
 title:  "Abduct"
 date:   2017-01-01
-source: hb
-tags: [bard, sorcerer, witch, wizard, wizard, level7, conjuration]
+source: From the Arcane Archive
+tags: [bard, sorcerer, witch, wizard, wizard, level7, conjuration, hb, fan]
 ---
 
 **7th-level conjuration**

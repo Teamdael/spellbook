@@ -3,7 +3,7 @@ layout: post
 title:  "Dark Secret"
 date:   2014-08-24
 source: Homebrew
-tags: [warlock, wizard, level2, divination, hb]
+tags: [warlock, wizard, level2, divination, hb, fan]
 ---
 
 **2nd-level divination**

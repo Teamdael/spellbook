@@ -3,7 +3,7 @@ layout: post
 title: "Holy Weapon"
 date: 2017-01-01
 source: XGTE.157
-tags: [cleric, paladin, level5, evocation]
+tags: [cleric, paladin, level5, evocation, xgte, fan]
 ---
 
 **5th-level evocation**

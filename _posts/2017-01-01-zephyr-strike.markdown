@@ -3,7 +3,7 @@ layout: post
 title:  "Zephyr Strike"
 date:   2014-12-31
 source: XGTE.171
-tags: [ranger, level1, transmutation]
+tags: [ranger, level1, transmutation, xgte, fan]
 ---
 
 **1st-level transmutation**

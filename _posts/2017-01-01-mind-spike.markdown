@@ -3,7 +3,7 @@ layout: post
 title:  "Mind Spike"
 date:   2017-01-01
 source: XGTE.162
-tags:   [warlock, wizard, level2, divination]
+tags:   [warlock, wizard, level2, divination, xgte, fan]
 ---
 
 **2nd-level divination**

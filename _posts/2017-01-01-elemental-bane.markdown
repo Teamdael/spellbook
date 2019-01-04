@@ -3,7 +3,7 @@ layout: post
 title:  "Elemental Bane"
 date:   2017-01-01
 source: XGTE.155
-tags: [druid, warlock, wizard, level4, transmutation]
+tags: [druid, warlock, wizard, level4, transmutation, xgte, fan]
 ---
 
 **4th-level transmutation**

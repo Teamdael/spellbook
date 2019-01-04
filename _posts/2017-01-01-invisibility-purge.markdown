@@ -1,22 +1,21 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Invisibility Purge"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, cleric, druid, paladin, ranger, shugenja, witch, wizard, level4, abjuration, hb, fan]
 ---
 
-**8th-level necromancy**
+**4th-level abjuration**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: Self (120-foot radius)
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (powdered silver worth at least 100 gp)
 
 **Duration**: Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You purge magical invisibility effects within 120 feet of you. Any creature, object, location or effect within 120 feet of you that is hidden by magical invisibility is revealed and the effect dispelled.
+
+This spell applies to innate abilities such as an imp’s Invisibility or a faerie dragon’s Superior Invisibility (as long as they are magical in nature) but it does not affect creatures on other planes (such as the Ethereal Plane), nor creatures that are naturally invisible. Items that grant magical invisibility (such as a ring of invisibility) have their effects suppressed for 1 minute.

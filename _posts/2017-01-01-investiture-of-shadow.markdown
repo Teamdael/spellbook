@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Inflict Pain"
+title:  "Investiture of Shadow"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [sorcerer, wizard, level6, transmutation, hb]
+tags: [sorcerer, wizard, level6, transmutation, hb, fan]
 ---
 
 **6th-level transmutation**

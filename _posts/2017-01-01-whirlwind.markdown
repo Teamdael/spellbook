@@ -3,7 +3,7 @@ layout: post
 title:  "Whirlwind"
 date:   2015-11-19
 source: XGTE.171
-tags: [druid, wizard, level7, evocation]
+tags: [druid, wizard, level7, evocation, xgte, fan]
 ---
 
 **7th-level evocation**

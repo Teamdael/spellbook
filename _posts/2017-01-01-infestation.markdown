@@ -3,7 +3,7 @@ layout: post
 title:  "Infestation"
 date:   2017-01-01
 source: XGTE.158
-tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration]
+tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration, xgte, fan]
 ---
 
 **Conjuration cantrip**

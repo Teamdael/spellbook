@@ -3,7 +3,7 @@ layout: post
 title:  "Aura Of Vitality"
 date:   2015-01-01
 source: PHB.216
-tags: [paladin, level3, evocation]
+tags: [paladin, level3, evocation, phb, fan]
 ---
 
 **3rd-level evocation**

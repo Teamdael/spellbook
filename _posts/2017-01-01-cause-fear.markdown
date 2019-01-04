@@ -3,7 +3,7 @@ layout: post
 title:  "Cause fear"
 date:   2017-01-01
 source: XGTE.151
-tags: [warlock, wizard, level1, necromancy]
+tags: [warlock, wizard, level1, necromancy, xgte, fan]
 ---
 
 **1st-level necromancy**

@@ -3,7 +3,7 @@ layout: post
 title:  "Etherealness"
 date:   2015-01-11
 source: PHB.238
-tags:   [bard, cleric, sorcerer, warlock, wizard, level7, transmutation]
+tags:   [bard, cleric, sorcerer, warlock, wizard, level7, transmutation, fan, phb]
 ---
 
 **7th-level transmutation**

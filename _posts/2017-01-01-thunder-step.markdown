@@ -3,7 +3,7 @@ layout: post
 title:  "Thunder Step"
 date:   2014-12-31
 source: XGTE.168
-tags: [wizard, level3, conjuration]
+tags: [wizard, level3, conjuration, xgte, fan]
 ---
 
 **3rd-level conjuration**

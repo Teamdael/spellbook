@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Curse Ward"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [cleric, paladin, warlock, wizard, level2, abjuration, hb, fan]
 ---
 
-**nth-level mancy**
+**2nd-level abjuration**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: 1 hour
+
+You reach out your hand and touch a willing target within your reach, raising a smoke-like barrier around it. For the duration, the target has resistance to necrotic damage and can't be cursed, possessed, or targeted by a hex. Also, its maximum hit points can't be lowered. If the target is already affected by one of these effects, the effect is suspended until the spell ends

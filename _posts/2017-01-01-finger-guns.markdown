@@ -1,22 +1,23 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Finger Guns"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, shugenja, sorcerer, warmage, wizard, cantrip, evocation, hb, ren]
 ---
 
-**8th-level necromancy**
+**Evocation cantrip**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 bonus action
 
-**Range**: 150 feet
+**Range**: 40 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: 1 minute
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You extend your index finger and thumb, a dangerous gesture mimicking a gun. For the duration, you can use your action to make a spell attack roll against one creature you can see within 40 feet, dealing 1d8 force damage on a hit.
+
+Your finger gun does not require ammunition, but is still considered to be a firearm for spells and effects such as bursting shot and protection from ballistics.
+
+The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).

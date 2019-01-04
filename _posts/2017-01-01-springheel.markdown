@@ -1,22 +1,19 @@
----
+﻿---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Springheel"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, druid, shugenja, sorcerer, warlock, warmage, witch, wizard, cantrip, transmutation, hb, fan]
 ---
 
-**8th-level necromancy**
+**Transmutation cantrip**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 bonus action
 
-**Range**: 150 feet
+**Range**: Self
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V
 
-**Duration**: Instantaneous
+**Duration**: 1 round
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You flood magic into your legs, allowing you to bound high into the air from a standstill. When you cast this spell, your jump distance increases 10 feet for the duration, and you can make a running high jump or a running long jump without a running start.

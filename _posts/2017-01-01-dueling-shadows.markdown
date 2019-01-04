@@ -3,7 +3,7 @@ layout: post
 title:  "Dueling Shadows"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, warlock, wizard, cantrip, transmutation, hb]
+tags: [bard, warlock, wizard, cantrip, transmutation, hb, fan]
 ---
 
 **Transmutation cantrip**

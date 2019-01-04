@@ -3,7 +3,7 @@ layout: post
 title:  "Erupting Earth"
 date:   2015-11-19
 source: XGTE.155
-tags: [druid, sorcerer, wizard, level3, transmutation]
+tags: [druid, sorcerer, wizard, level3, transmutation, fan, xgte]
 ---
 
 **3rd-level transmutation**

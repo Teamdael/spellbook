@@ -3,7 +3,7 @@ layout: post
 title: "Flaming Sphere"
 date: 2015-07-14
 source: PHB.242
-tags: [druid, wizard, level2, conjuration]
+tags: [druid, wizard, level2, conjuration, phb, fan]
 ---
 
 **2nd-level conjuration**

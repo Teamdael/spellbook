@@ -3,7 +3,7 @@ layout: post
 title:  "Create or Destroy Water"
 date:   2014-08-24
 source: PHB.229
-tags: [cleric, druid, level1, transmutation]
+tags: [cleric, druid, level1, transmutation, phb, fan]
 ---
 
 **1st-level transmutation**

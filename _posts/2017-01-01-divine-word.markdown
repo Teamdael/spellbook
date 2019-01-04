@@ -3,7 +3,7 @@ layout: post
 title:  "Divine Word"
 date:   2015-01-11
 source: PHB.234
-tags:   [cleric, level7, evocation]
+tags:   [cleric, level7, evocation, phb, fan]
 ---
 
 **7th-level evocation**

@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Speak with Cacti"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [druid, ranger, witch, level1, transmutation, hb, fan]
 ---
 
-**nth-level mancy**
+**1st-level transmutation (ritual)**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: 10 minutes
+
+You touch one natural cactus and imbue it with a limited sentience, giving it the ability to communicate with you. You can question the cactus about events in the immediate area within the past day, gaining information about creatures that have passed, weather, and other circumstances.

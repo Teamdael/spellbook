@@ -3,7 +3,7 @@ layout: post
 title: "Fabricate"
 date: 2015-07-14
 source: PHB.239
-tags: [wizard, level4, transmutation]
+tags: [wizard, level4, transmutation, phb, fan]
 ---
 
 **4th-level transmutation**

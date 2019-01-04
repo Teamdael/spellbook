@@ -3,7 +3,7 @@ layout: post
 title:  "Ray of Fatigue"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [wizard, level5, necromancy, hb]
+tags: [wizard, level5, necromancy, hb, fan]
 ---
 
 **5th-level necromancy**

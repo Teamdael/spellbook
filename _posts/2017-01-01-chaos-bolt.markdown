@@ -3,7 +3,7 @@ layout: post
 title:  "Chaos Bolt"
 date: 2017-01-01
 source: XGTE.151
-tags: [sorcerer, level1, evocation]
+tags: [sorcerer, level1, evocation, xgte, fan]
 ---
 
 **1st-level evocation**

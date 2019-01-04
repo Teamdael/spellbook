@@ -3,7 +3,7 @@ layout: post
 title: "Staggering Smite"
 date: 2015-07-30
 source: PHB.278
-tags: [paladin, level4, evocation]
+tags: [paladin, level4, evocation, phb, fan]
 ---
 
 **4th-level evocation**

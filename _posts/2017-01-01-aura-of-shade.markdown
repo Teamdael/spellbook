@@ -3,7 +3,7 @@ layout: post
 title:  "Aura of Shade"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [bard, druid, sorcerer, warlock, wizard, level1, illusion, hb]
+tags: [bard, druid, sorcerer, warlock, wizard, level1, illusion, hb, fan]
 ---
 
 **1st-level illusion**

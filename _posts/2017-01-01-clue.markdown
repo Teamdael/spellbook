@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Clue"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [channeler, paladin, ranger, sorcerer, warlock, witch, wizard, level1, divination, hb, fan]
 ---
 
-**nth-level mancy**
+**1st-level divination (ritual)**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a magnifying glass and pipe)
 
-**Duration**: Instantaneous
+**Duration**: 10 minutes
+
+When you cast this spell, all footprints and fingerprints within a 45-foot radius of a point you touch become highlighted and glow faintly for the duration. At the time of casting, choose any period of time up to the last 10 days to the present; only footprints and fingerprints left within that time will be highlighted. Each creature whose footprints or fingerprints are detected by the spell is assigned a unique color, but are not otherwise identified. Any creature that moves or touches objects in the area will also leave colorful footprints and fingerprints, which might reveal invisible creatures in the area.

@@ -3,7 +3,7 @@ layout: post
 title: "Divination"
 date: 2015-07-14
 source: PHB.234
-tags: [cleric, level4, divination]
+tags: [cleric, level4, divination, phb, fan]
 ---
 
 **4th-level divination (ritual)**

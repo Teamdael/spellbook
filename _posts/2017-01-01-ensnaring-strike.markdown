@@ -3,7 +3,7 @@ layout: post
 title:  "Ensnaring Strike"
 date:   2014-08-24
 source: PHB.237
-tags: [ranger, level1, conjuration]
+tags: [ranger, level1, conjuration, phb, fan]
 ---
 
 **1st-level conjuration**

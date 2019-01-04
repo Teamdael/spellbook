@@ -3,7 +3,7 @@ layout: post
 title: "Shadow of Moil"
 date: 2017-01-01
 source: XGTE.164
-tags: [warlock, level4, necromancy]
+tags: [warlock, level4, necromancy, xgte, fan]
 ---
 
 **4th-level necromancy**

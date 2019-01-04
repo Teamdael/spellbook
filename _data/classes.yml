@@ -1,5 +1,7 @@
 - name: Bard
   tag: bard
+- name: Channeler
+  tag: channeler
 - name: Cleric
   tag: cleric
 - name: Druid
@@ -8,9 +10,15 @@
   tag: paladin
 - name: Ranger
   tag: ranger
+- name: Shugenja
+  tag: shugenja
 - name: Sorcerer
   tag: sorcerer
 - name: Warlock
   tag: warlock
+- name: Warmage
+  tag: warmage
+- name: Witch
+  tag: witch
 - name: Wizard
   tag: wizard

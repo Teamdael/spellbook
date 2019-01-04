@@ -3,7 +3,7 @@ layout: post
 title: "Scorching Ray"
 date: 2015-07-30
 source: PHB.273
-tags: [sorcerer, wizard, level2, evocation]
+tags: [sorcerer, wizard, level2, evocation, phb, fan]
 ---
 
 **2nd-level evocation**

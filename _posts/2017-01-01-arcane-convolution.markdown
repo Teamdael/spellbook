@@ -1,22 +1,33 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Arcane Convolution"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, cleric, shugenja, sorcerer, warlock, witch, wizard, level4, abjuration, hb, fan]
 ---
 
-**8th-level necromancy**
+**4th-level abjuration**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: Self (120-foot radius)
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a pinch of powdered glass)
 
-**Duration**: Instantaneous
+**Duration**: 1 minute
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+This spell distorts the rules of the universe in a short range around you, wreaking arcane havoc. For the duration, some damage types are exchanged with others, as shown on the table below.
+Additionally, no creature within range can regain hit points due to magic. Instead, when a creature would regain hit points, it must make a Constitution saving throw or takes necrotic damage equal to the amount it would have regained.
+
+|Old Type|New Type|
+|:-:|:-|
+|Acid|Poison|
+|Cold|Fire|
+|Fire|Radiant|
+|Force|Necrotic|
+|Lightning|Psychic|
+|Necrotic|Thunder|
+|Poison|Force|
+|Psychic|Lightning|
+|Radiant|Acid|
+|Thunder|Cold|

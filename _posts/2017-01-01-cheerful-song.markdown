@@ -3,7 +3,7 @@ layout: post
 title:  "Cheerful Song"
 date:   2014-08-24
 source: Homebrew
-tags: [bard, cantrip, enchantment, hb]
+tags: [bard, cantrip, enchantment, hb, fan]
 ---
 
 **Enchantment cantrip**

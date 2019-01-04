@@ -3,7 +3,7 @@ layout: post
 title:  "Bloodcurse"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, wizard, level5, necromancy, hb]
+tags: [cleric, sorcerer, wizard, level5, necromancy, hb, fan]
 ---
 
 **5th-level necromancy (hemomancy)**

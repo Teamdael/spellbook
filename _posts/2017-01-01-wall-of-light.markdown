@@ -3,7 +3,7 @@ layout: post
 title:  "Wall of Light"
 date:   2014-12-31
 source: XGTE.170
-tags: [sorcerer, wizard, warlock, level5, evocation]
+tags: [sorcerer, wizard, warlock, level5, evocation, xgte, fan]
 ---
 
 **5th-level evocation**

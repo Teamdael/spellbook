@@ -1,17 +1,23 @@
 ---
 layout: post
-title:  ""
+title:  "Erase"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [shugenja, sorcerer, witch, wizard, level8, chronomancy, hb, fan]
 ---
 
-**nth-level mancy**
+**8th-level chronomancy**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: 30 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a quartz crystal worth at least 100 gp)
 
-**Duration**: Instantaneous
+**Duration:** Instantaneous
+
+You point your finger and fire a pale blue ray at a Small or smaller nonmagical object that you can see within range. Make a ranged spell attack against the target. On a hit, the
+target is erased from time. No trace remains of the erased object and the memory any creature (except the caster) that knew of its existence is altered to reflect the fact that the object never existed. If anything else in the world would not make sense in the absence of the object, history is re-written to explain it. The GM determines the new version of events. Generally, this
+spell makes the smallest possible change that would provide a plausible explanation.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 9th level, you can target a Medium object or creature. On a hit, the creature takes 10d10 force damage. If it is reduced to 0 hit points by this damage, it is erased from time as described above, along with any nonmagical objects it is wearing or carrying.

@@ -3,7 +3,7 @@ layout: post
 title: "Reincarnate"
 date: 2015-07-30
 source: PHB.271
-tags: [druid, level5, transmutation]
+tags: [druid, level5, transmutation, phb, fan]
 ---
 
 **5th-level transmutation**

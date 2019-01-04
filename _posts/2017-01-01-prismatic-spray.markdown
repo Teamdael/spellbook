@@ -3,7 +3,7 @@ layout: post
 title:  "Prismatic Spray"
 date:   2015-01-11
 source: PHB.267
-tags:   [sorcerer, wizard, level7, evocation]
+tags:   [sorcerer, wizard, level7, evocation, phb, fan]
 ---
 
 **7th-level evocation**

@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Chameleon Mask"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [bard, druid, ranger, witch, level1, illusion, hb, fan]
 ---
 
-**nth-level mancy**
+**1st-level illusion**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a chameleon's tail)
 
-**Duration**: Instantaneous
+**Duration**: Concentration, up to 10 minutes
+
+You touch a willing creature and place a minor illusion on it that allows it to blend in with its surroundings. For the duration, that creature can replace its Dexterity (Stealth) modifier with your spell attack bonus on any Dexterity (Stealth) checks it makes.

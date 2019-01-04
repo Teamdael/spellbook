@@ -3,7 +3,7 @@ layout: post
 title:  "Major Image"
 date:   2015-01-01
 source: PHB.258
-tags: [bard, sorcerer, warlock, wizard, level3, illusion]
+tags: [bard, sorcerer, warlock, wizard, level3, illusion, phb, fan]
 ---
 
 **3rd-level illusion**

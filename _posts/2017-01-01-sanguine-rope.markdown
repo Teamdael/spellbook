@@ -3,7 +3,7 @@ layout: post
 title:  "Sanguine Rope"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [sorcerer, wizard, level5, transmutation, hb]
+tags: [sorcerer, wizard, level5, transmutation, hb, fan]
 ---
 
 **2nd-level transmutation (hemomancy)**

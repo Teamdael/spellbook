@@ -3,7 +3,7 @@ layout: post
 title:  "Maddening Darkness"
 date:   2017-01-01
 source: XGTE.160
-tags: [warlock, wizard, level8, evocation]
+tags: [warlock, wizard, level8, evocation, xgte, fan]
 ---
 
 **8th-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title:  "Blackened Heart"
 date:   2014-08-24
 source: Homebrew
-tags: [sorcerer, warlock, wizard, level3, necromancy, hb]
+tags: [sorcerer, warlock, wizard, level3, necromancy, hb, fan]
 ---
 
 **3rd-level necromancy**

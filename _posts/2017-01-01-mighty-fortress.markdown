@@ -3,7 +3,7 @@ layout: post
 title: "Might Fortress"
 date: 2017-01-01
 source: XGTE.161
-tags: [wizard, level8, conjuration]
+tags: [wizard, level8, conjuration, xgte, fan]
 ---
 
 **8th-level conjuration**

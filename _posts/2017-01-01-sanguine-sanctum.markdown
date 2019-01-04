@@ -3,7 +3,7 @@ layout: post
 title:  "Sanguine Sanctum"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, wizard, level4, transmutation, hb]
+tags: [cleric, sorcerer, wizard, level4, transmutation, hb, fan]
 ---
 
 **4th-level abjuration (hemomancy)**

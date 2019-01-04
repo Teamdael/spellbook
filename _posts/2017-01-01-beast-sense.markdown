@@ -3,7 +3,7 @@ layout: post
 title:  "Beast Sense"
 date:   2015-01-07
 source: PHB.217
-tags: [druid, ranger, level2, divination]
+tags: [druid, ranger, level2, divination, phb, fan]
 ---
 
 **2nd-level divination (ritual)**

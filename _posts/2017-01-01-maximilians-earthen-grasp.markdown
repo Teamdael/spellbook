@@ -3,7 +3,7 @@ layout: post
 title:  "Maximilian's Earthen Grasp"
 date:   2017-01-01
 source: XGTE.161
-tags: [sorcerer, wizard, level2, transmutation]
+tags: [sorcerer, wizard, level2, transmutation, xgte, fan]
 ---
 
 **2nd-level transmutation**

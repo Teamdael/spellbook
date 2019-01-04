@@ -3,7 +3,7 @@ layout: post
 title:  "Power Word Pain"
 date:   2017-01-01
 source: XGTE.163
-tags:   [sorcerer, warlock, wizard, level7, enchantment]
+tags:   [sorcerer, warlock, wizard, level7, enchantment, xgte, fan]
 ---
 
 **7th-level enchantment**

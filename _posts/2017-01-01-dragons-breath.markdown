@@ -3,7 +3,7 @@ layout: post
 title:  "Dragon's Breath"
 date:   2017-01-01
 source: XGTE.154
-tags: [sorcerer, wizard, level2, transmutation]
+tags: [sorcerer, wizard, level2, transmutation, xgte, fan]
 ---
 
 **2nd-level transmutation**

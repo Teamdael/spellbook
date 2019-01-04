@@ -3,7 +3,7 @@ layout: post
 title:  "Wall of Sand"
 date:   2015-11-22
 source: XGTE.170
-tags: [wizard, level3, evocation]
+tags: [wizard, level3, evocation, xgte, fan]
 ---
 
 **3rd-level evocation**

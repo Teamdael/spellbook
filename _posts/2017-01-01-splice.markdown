@@ -1,17 +1,21 @@
 ---
 layout: post
-title:  ""
+title:  "Splice"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [druid, warlock, witch, wizard, level7, transmutation, hb, fan]
 ---
 
-**nth-level mancy**
+**7th-level transmutation**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: 60 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a special glass syringe, worth 1,000 gp)
 
-**Duration**: Instantaneous
+**Duration**: 1 hour
+
+With a pinprick beam of arcana, you steal a sample of genetic information from a target creature you can see within range and bestow that information upon a recipient creature you touch. The target creature need not be alive or even whole, as long as you target part of a creature that has died within the last 10 days.
+The recipient creature gains any of the following traits from the target creature that you choose: the target's movement speed and types of movement, all of the target's damage resistances, the target's special senses, or one of the target's special traits, such as a ghast's Stench trait. If selected, the GM decides which special trait, if any, the recipient gains from the target creature. The recipient does not gain any traits from the creature that do not result from its race or monster statistics.
+The recipient's appearances changes to resemble a hybrid of the target creature and itself. These changes, as well as the traits gained by the recipient creature, last for the duration.

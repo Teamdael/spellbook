@@ -1,22 +1,25 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Manipulate Clockwork"
 date:   2017-01-01
-source: XGTE.150
-tags: [sorcerer, wizard, level8, necromancy]
+source: From the Arcane Archive
+tags: [bard, shugenja, sorcere, warlock, warmage, witch, wizard, cantrip, chronomancy]
 ---
 
-**8th-level necromancy**
+**Chronomancy cantrip**
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: 30 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
-**Duration**: Instantaneous
+**Duration**: 1 round
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each
-creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants
-and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren’t creatures,
-such as trees and shrubs, wither and die instantly.
+You effect a minor change in a Small or smaller clockwork item within range that you can see. Examples of things you could do include:
+* Make the machine run faster or slower, up to double or half of its normal speed.
+* Change the time displayed on a mechanical clock.
+* Flip a switch or change a setting.
+* Start or stop the device.
+
+You cannot damage or destroy a machine using this spell.

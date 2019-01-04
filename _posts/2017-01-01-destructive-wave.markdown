@@ -3,7 +3,7 @@ layout: post
 title: "Destructive Wave"
 date: 2015-07-14
 source: PHB.231
-tags: [paladin, level5, evocation]
+tags: [paladin, level5, evocation, phb, fan]
 ---
 
 **5th-level evocation**

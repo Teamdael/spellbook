@@ -3,7 +3,7 @@ layout: post
 title:  "Earthbind"
 date:   2015-11-13
 source: XGTE.154
-tags: [druid, sorcerer, warlock, wizard, level2, transmutation]
+tags: [druid, sorcerer, warlock, wizard, level2, transmutation, xgte, fan]
 ---
 
 **2nd-level transmutation**

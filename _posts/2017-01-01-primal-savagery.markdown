@@ -3,7 +3,7 @@ layout: post
 title:  "Primal Savagery"
 date:   2017-01-01
 source: XGTE.163
-tags: [druid, cantrip, transmutation]
+tags: [druid, cantrip, transmutation, xgte, fan]
 ---
 
 **Transmutation cantrip**

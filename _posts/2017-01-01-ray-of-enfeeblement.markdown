@@ -3,7 +3,7 @@ layout: post
 title: "Ray of Enfeeblement"
 date: 2015-07-30
 source: PHB.271
-tags: [warlock, wizard, level2, necromancy]
+tags: [warlock, wizard, level2, necromancy, phb, fan]
 ---
 
 **2nd-level necromancy**

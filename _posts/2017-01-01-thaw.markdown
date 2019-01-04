@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Thaw"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [druid, shugenja, wizard, level1, evocation, hb, fan]
 ---
 
-**nth-level mancy**
+**1st-level evocation (ritual)**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: Touch
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S
 
 **Duration**: Instantaneous
+
+You touch a frozen object, causing any nonmagical ice or snow in a 10-foot cube to melt into water. The meltwater is drinkable if desired.

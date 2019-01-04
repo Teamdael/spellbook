@@ -3,7 +3,7 @@ layout: post
 title:  "Shadow Blade"
 date:   2017-01-01
 source: XGTE.164
-tags: [sorcerer, warlock, wizard, level2, illusion]
+tags: [sorcerer, warlock, wizard, level2, illusion, xgte, fan]
 ---
 
 **2nd-level illusion**

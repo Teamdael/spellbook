@@ -3,7 +3,7 @@ layout: post
 title:  "Cruorwhip"
 date:   2017-01-01
 source: Dark Arts Player's Companion
-tags: [cleric, sorcerer, wizard, level1, necromancy, hb]
+tags: [cleric, sorcerer, wizard, level1, necromancy, hb, fan]
 ---
 
 **1st-level necromancy (hemomancy)**

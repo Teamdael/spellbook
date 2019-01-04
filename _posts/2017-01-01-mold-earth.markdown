@@ -3,7 +3,7 @@ layout: post
 title:  "Mold Earth"
 date:   2015-11-11
 source: XGTE.162
-tags: [druid, sorcerer, wizard, cantrip, transmutation]
+tags: [druid, sorcerer, wizard, cantrip, transmutation, xgte, fan]
 ---
 
 **Transmutation cantrip**

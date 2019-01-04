@@ -3,7 +3,7 @@ layout: post
 title: "Locate Object"
 date: 2015-07-30
 source: PHB.256
-tags: [bard, cleric, druid, paladin, ranger, wizard, level2, divination]
+tags: [bard, cleric, druid, paladin, ranger, wizard, level2, divination, phb, fan]
 ---
 
 **2nd-level divination**

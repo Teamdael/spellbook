@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  ""
+title:  "Exhume"
 date:   2017-01-01
-source: .
-tags: [class, wizard, level, necromancy]
+source: From the Arcane Archive
+tags: [class, wizard, level1, necromancy, hb, fan]
 ---
 
-**nth-level mancy**
+**1st-level necromancy (ritual)**
 
-**Casting Time**: ..
+**Casting Time**: 1 action
 
-**Range**: .. feet
+**Range**: 60 feet
 
-**Components**: V, S, M (a bit of sponge)
+**Components**: V, S, M (a drop of blood)
 
 **Duration**: Instantaneous
+
+Choose an unoccupied 20-foot square within range (note that the area must have solid earth beneath it; this spell fails if cast on the upper floor of a building). This spell then causes one pile of humanoid bones to rise out of the ground within that square. If you cast this spell within a burial place such as a graveyard, mausoleum or barrow, 1d4 piles of bones are exhumed instead of 1. The ground itself is not changed or disturbed by this spell; the bones simply appear out of the ground.
